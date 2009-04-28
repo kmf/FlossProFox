@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Açılır pencere göster">
+<!ENTITY identicanotifier.update "Dentleri şimdi güncelle">
+<!ENTITY identicanotifier.markAllAsRead "Tümünü okundu olarak işaretle">
+<!ENTITY identicanotifier.accounts "Hesap değiştir">
+<!ENTITY identicanotifier.preference "Tercihler...">
+<!ENTITY identicanotifier.logout "Çıkış yap">
+<!ENTITY identicanotifier.linkButton.tooltip "Açık sekmenin URL&apos;sini ekle">
+<!ENTITY identicanotifier.recent.tooltip "Arkadaşların zaman-çizgisini göster">
+<!ENTITY identicanotifier.replies.tooltip "Yanıtları göster">
+<!ENTITY identicanotifier.messages.tooltip "Karşılıklı mesajları göster">
+<!ENTITY identicanotifier.enterStatus.tooltip "Durumunuzu güncellemek için buraya yazın">
+<!ENTITY identicanotifier.replyButton.tooltip "Yanıt gönder">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Favorilere geç">
+<!ENTITY identicanotifier.logo.tooltip "Identica&apos;a git">
+<!ENTITY identicanotifier.changeAccount.tooltip "Hesap değiştirme için tıklayın">
+<!ENTITY identicanotifier.closeButton.tooltip "Pencereyi kapat">
+<!ENTITY identicanotifier.copyDent "Kopyala">
+<!ENTITY identicanotifier.redent "Tekrar Dentle">
+<!ENTITY identicanotifier.deleteDent "Bu dent&apos;i sil">
+<!ENTITY identicanotifier.openDentInTab "Bu dent&apos;i yeni sekmede aç">
+<!ENTITY identicanotifier.clickToStart "Başlamak için Tıkla">

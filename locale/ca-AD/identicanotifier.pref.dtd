@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Preferències IdentiFox">
+<!ENTITY identicanotifier.accounts "Comptes">
+<!ENTITY identicanotifier.username "Usuari">
+<!ENTITY identicanotifier.password "Contrassenya">
+<!ENTITY identicanotifier.addAccount "Afegir Compte">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Esborrar compte">
+<!ENTITY identicanotifier.preferences "Preferències">
+<!ENTITY identicanotifier.refreshInterval "Aconseguir dents">
+<!ENTITY identicanotifier.every3minutes "cada 3 minuts">
+<!ENTITY identicanotifier.every5minutes "cada 5 minuts">
+<!ENTITY identicanotifier.every10minutes "cada 10 minuts">
+<!ENTITY identicanotifier.every15minutes "cada 15 minuts">
+<!ENTITY identicanotifier.every30minutes "cada 30 minuts">
+<!ENTITY identicanotifier.popupInterval "Interval de les finestres">
+<!ENTITY identicanotifier.popup3sec "3 segons">
+<!ENTITY identicanotifier.popup5sec "5 segons">
+<!ENTITY identicanotifier.popup7sec "7 segons">
+<!ENTITY identicanotifier.popup10sec "10 segons">
+<!ENTITY identicanotifier.togglePopup "Obrir/Tancar finestra">
+<!ENTITY identicanotifier.insertURL "Introduir URL">
+<!ENTITY identicanotifier.revertKeyconfig "Revertir">
+<!ENTITY identicanotifier.popupBehavior "Pantalla de la finestra">
+<!ENTITY identicanotifier.popupAutoclose "No tancar finestra automàticament">
+<!ENTITY identicanotifier.balloon "Pantalla popup">
+<!ENTITY identicanotifier.showBalloon "Mostrar popup emergent">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Sobreescriure cookie del navegador">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Si està marcat, IdentiFox sobreescriurà la cookie del navegador">
+<!ENTITY identicanotifier.sound "So de notificació">
+<!ENTITY identicanotifier.soundButton "Navegar...">

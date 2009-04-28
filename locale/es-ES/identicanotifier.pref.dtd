@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Preferencias de IdentiFox">
+<!ENTITY identicanotifier.accounts "Cuentas">
+<!ENTITY identicanotifier.username "Usuario / E-mail">
+<!ENTITY identicanotifier.password "Contraseña">
+<!ENTITY identicanotifier.addAccount "Añadir cuenta">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Borrar cuenta">
+<!ENTITY identicanotifier.preferences "Preferencias">
+<!ENTITY identicanotifier.refreshInterval "Obtener dents">
+<!ENTITY identicanotifier.every3minutes "cada 3 minutos">
+<!ENTITY identicanotifier.every5minutes "cada 5 minutos">
+<!ENTITY identicanotifier.every10minutes "cada 10 minutos">
+<!ENTITY identicanotifier.every15minutes "cada 15 minutos">
+<!ENTITY identicanotifier.every30minutes "cada 30 minutos">
+<!ENTITY identicanotifier.popupInterval "Intervalo entre avisos emergentes">
+<!ENTITY identicanotifier.popup3sec "3 segundos">
+<!ENTITY identicanotifier.popup5sec "5 segundos">
+<!ENTITY identicanotifier.popup7sec "7 segundos">
+<!ENTITY identicanotifier.popup10sec "10 segundos">
+<!ENTITY identicanotifier.togglePopup "Abrir/Cerrar ventana">
+<!ENTITY identicanotifier.insertURL "Insertar URL">
+<!ENTITY identicanotifier.revertKeyconfig "Restablecer">
+<!ENTITY identicanotifier.popupBehavior "Mostrar ventana">
+<!ENTITY identicanotifier.popupAutoclose "Cerrar la ventana automáticamente">
+<!ENTITY identicanotifier.balloon "Avisos emergentes">
+<!ENTITY identicanotifier.showBalloon "Mostrar el aviso emergente">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Sobreescribir cookie del navegador">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Si activas esta casilla, IdentiFox sobreescribirá la cookie de tu navegador">
+<!ENTITY identicanotifier.sound "Sonido de aviso">
+<!ENTITY identicanotifier.soundButton "Examinar...">

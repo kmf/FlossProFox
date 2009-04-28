@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Hiện popup">
+<!ENTITY identicanotifier.update "Cập nhật dents ngay">
+<!ENTITY identicanotifier.markAllAsRead "Đánh dấu tất cả thành đã đọc">
+<!ENTITY identicanotifier.accounts "Thay đổi tài khoản">
+<!ENTITY identicanotifier.preference "Tùy chỉnh...">
+<!ENTITY identicanotifier.logout "Thoát">
+<!ENTITY identicanotifier.linkButton.tooltip "Nhập URL của thẻ hiện tại">
+<!ENTITY identicanotifier.recent.tooltip "Hiện thứ tự thời gian của bạn bè">
+<!ENTITY identicanotifier.replies.tooltip "Hiện tin trả lời">
+<!ENTITY identicanotifier.messages.tooltip "Hiện tin nhắn trực tiếp">
+<!ENTITY identicanotifier.enterStatus.tooltip "Enter để cập nhật trạng thái của bạn">
+<!ENTITY identicanotifier.replyButton.tooltip "Gửi Trả LỜi">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Bật/tắt mục ưa thích">
+<!ENTITY identicanotifier.logo.tooltip "Vào identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Nhấn vào để thay tài khoản">
+<!ENTITY identicanotifier.closeButton.tooltip "Đóng cửa sổ">
+<!ENTITY identicanotifier.copyDent "Chép">
+<!ENTITY identicanotifier.redent "Dent lại">
+<!ENTITY identicanotifier.deleteDent "Xóa dent này">
+<!ENTITY identicanotifier.openDentInTab "Mởi dent này trong thẻ mới">
+<!ENTITY identicanotifier.clickToStart "Nhấn đế Bắt đầu">

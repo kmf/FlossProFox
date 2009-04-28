@@ -1,0 +1,12 @@
+<client>
+        <name>FlossProFox</name>
+        <version>$VERSION$</version>
+        <author>
+                <name>Karl Fischer</name>
+                <email>kmf@floss.pro</email>
+                <identica>uncryptic</identica>
+        </author>
+        <url>http://floss.pro</url>
+        <identica>FlossProFox</identica>
+        <description>FlossProFox is a Firefox extension which displays Floss.pro status updates. </description>
+</client>

@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "عرض النافذة المنبثقة">
+<!ENTITY identicanotifier.update "تحديث الرسائل الآن">
+<!ENTITY identicanotifier.markAllAsRead "تحديد الكل كمقروء">
+<!ENTITY identicanotifier.accounts "تغيير الحساب">
+<!ENTITY identicanotifier.preference "خصائص ...">
+<!ENTITY identicanotifier.logout "تسجيل الخروج">
+<!ENTITY identicanotifier.linkButton.tooltip "إدراج رابط الصفحة الحالية">
+<!ENTITY identicanotifier.recent.tooltip "عرض الجدول الزمني لأصدقائك">
+<!ENTITY identicanotifier.replies.tooltip "عرض الردود">
+<!ENTITY identicanotifier.messages.tooltip "عرض الرسائل المباشرة">
+<!ENTITY identicanotifier.enterStatus.tooltip "Enter لتحديث حالتك">
+<!ENTITY identicanotifier.replyButton.tooltip "ارسال الرد">
+<!ENTITY identicanotifier.favoriteButton.tooltip "اضافة للمفضلة">
+<!ENTITY identicanotifier.logo.tooltip "إذهب إلى identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "أنقر لتغيير الحساب">
+<!ENTITY identicanotifier.closeButton.tooltip "إغلاق النافذة">
+<!ENTITY identicanotifier.copyDent "نسخ">
+<!ENTITY identicanotifier.redent "إعادة">
+<!ENTITY identicanotifier.deleteDent "حذف">
+<!ENTITY identicanotifier.openDentInTab "فتح في علامة تبويب جديدة">
+<!ENTITY identicanotifier.clickToStart "أنقر للبدء">

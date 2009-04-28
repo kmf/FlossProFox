@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Mostrar fiestra emerxente">
+<!ENTITY identicanotifier.update "Actualizar dents">
+<!ENTITY identicanotifier.markAllAsRead "Mark all as read">
+<!ENTITY identicanotifier.accounts "Trocar conta">
+<!ENTITY identicanotifier.preference "Preferencias...">
+<!ENTITY identicanotifier.logout "Pechar sesión">
+<!ENTITY identicanotifier.linkButton.tooltip "Inserir a URL do actual separador">
+<!ENTITY identicanotifier.recent.tooltip "Mostrar a liña de tempo dos teus amigos (timeline)">
+<!ENTITY identicanotifier.replies.tooltip "Mostrar respostas">
+<!ENTITY identicanotifier.messages.tooltip "Mostrar mensaxes directas">
+<!ENTITY identicanotifier.enterStatus.tooltip "Prema INTRO para actualizar o teu estado">
+<!ENTITY identicanotifier.replyButton.tooltip "Enviar resposta">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Toggle favorite">
+<!ENTITY identicanotifier.logo.tooltip "Ir a identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Prema para trocar a conta">
+<!ENTITY identicanotifier.closeButton.tooltip "Pechar a fiestra">
+<!ENTITY identicanotifier.copyDent "Copy">
+<!ENTITY identicanotifier.redent "Redent">
+<!ENTITY identicanotifier.deleteDent "Delete this dent">
+<!ENTITY identicanotifier.openDentInTab "Open this dent in new tab">
+<!ENTITY identicanotifier.clickToStart "Click to Start">

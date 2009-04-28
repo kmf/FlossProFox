@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "نمایش پنجرک">
+<!ENTITY identicanotifier.update "اکنون به‌روزشود">
+<!ENTITY identicanotifier.markAllAsRead "Mark all as read">
+<!ENTITY identicanotifier.accounts "تغییر حساب">
+<!ENTITY identicanotifier.preference "تنظیمات...">
+<!ENTITY identicanotifier.logout "خروج">
+<!ENTITY identicanotifier.linkButton.tooltip "افزودن نشانی برگه جاری">
+<!ENTITY identicanotifier.recent.tooltip "نمایش محور زمانی دوستان شما">
+<!ENTITY identicanotifier.replies.tooltip "نمایش پاسخ‌ها">
+<!ENTITY identicanotifier.messages.tooltip "نمایش پیام‌های مستقیم">
+<!ENTITY identicanotifier.enterStatus.tooltip "بوسیله کلید ورودی وضعیت خود را به‌روز کنید">
+<!ENTITY identicanotifier.replyButton.tooltip "ارسال پاسخ">
+<!ENTITY identicanotifier.favoriteButton.tooltip "تعویض موردعلاقه">
+<!ENTITY identicanotifier.logo.tooltip "رفتن به تویتر">
+<!ENTITY identicanotifier.changeAccount.tooltip "برای تغییر حساب کلیک‌کنید">
+<!ENTITY identicanotifier.closeButton.tooltip "بستن پنجره">
+<!ENTITY identicanotifier.copyDent "Copy">
+<!ENTITY identicanotifier.redent "Redent">
+<!ENTITY identicanotifier.deleteDent "Delete this dent">
+<!ENTITY identicanotifier.openDentInTab "Open this dent in new tab">
+<!ENTITY identicanotifier.clickToStart "Click to Start">

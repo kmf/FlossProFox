@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Diskwedhes tardhans">
+<!ENTITY identicanotifier.update "Nowedha twitys lemmyn">
+<!ENTITY identicanotifier.markAllAsRead "Merkya oll avel redys">
+<!ENTITY identicanotifier.accounts "Chanjya akont">
+<!ENTITY identicanotifier.preference "Dewisyansow...">
+<!ENTITY identicanotifier.logout "Omdenna">
+<!ENTITY identicanotifier.linkButton.tooltip "Ynwor URL an tab res">
+<!ENTITY identicanotifier.recent.tooltip "Diskwedhes termynlinen dha goweth">
+<!ENTITY identicanotifier.replies.tooltip "Diskwedhes gorthebow">
+<!ENTITY identicanotifier.messages.tooltip "Diskwedhes mesajow ewn">
+<!ENTITY identicanotifier.enterStatus.tooltip "Enter to update your status">
+<!ENTITY identicanotifier.replyButton.tooltip "Dannvon Gorthyp">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Toggle favorite">
+<!ENTITY identicanotifier.logo.tooltip "Mos dhe dwitter">
+<!ENTITY identicanotifier.changeAccount.tooltip "Klyck rag chanjya akont">
+<!ENTITY identicanotifier.closeButton.tooltip "Degea fenester">
+<!ENTITY identicanotifier.copyDent "Kopia">
+<!ENTITY identicanotifier.redent "Dastwitya">
+<!ENTITY identicanotifier.deleteDent "Dilea an twit ma">
+<!ENTITY identicanotifier.openDentInTab "Ygeri an twit ma yn tab nowyth">
+<!ENTITY identicanotifier.clickToStart "Klyck rag dalleth">

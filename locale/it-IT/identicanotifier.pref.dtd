@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Preferenze IdentiFox">
+<!ENTITY identicanotifier.accounts "Profili">
+<!ENTITY identicanotifier.username "Utente">
+<!ENTITY identicanotifier.password "Password">
+<!ENTITY identicanotifier.addAccount "Aggiungi profilo">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Elimina profilo">
+<!ENTITY identicanotifier.preferences "Preferenze">
+<!ENTITY identicanotifier.refreshInterval "Aggiorna dent">
+<!ENTITY identicanotifier.every3minutes "ogni 3 minuti">
+<!ENTITY identicanotifier.every5minutes "ogni 5 minuti">
+<!ENTITY identicanotifier.every10minutes "ogni 10 minuti">
+<!ENTITY identicanotifier.every15minutes "ogni 15 minuti">
+<!ENTITY identicanotifier.every30minutes "ogni 30 minuti">
+<!ENTITY identicanotifier.popupInterval "Intervallo popup">
+<!ENTITY identicanotifier.popup3sec "3 secondi">
+<!ENTITY identicanotifier.popup5sec "5 secondi">
+<!ENTITY identicanotifier.popup7sec "7 secondi">
+<!ENTITY identicanotifier.popup10sec "10 secondi">
+<!ENTITY identicanotifier.togglePopup "Apri/Chiudi finestra">
+<!ENTITY identicanotifier.insertURL "Scrivi URL dal browser">
+<!ENTITY identicanotifier.revertKeyconfig "Ripristina">
+<!ENTITY identicanotifier.popupBehavior "Visualizza finestra">
+<!ENTITY identicanotifier.popupAutoclose "Chiudi la finestra automaticamente">
+<!ENTITY identicanotifier.balloon "Visualizza popup">
+<!ENTITY identicanotifier.showBalloon "Mostra avviso dinamico">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Sovrascrivi cookie del browser">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Se selezionato, IdentiFox sovrascrive i cookie del tuo browser">
+<!ENTITY identicanotifier.sound "Suono di notifica">
+<!ENTITY identicanotifier.soundButton "Seleziona...">

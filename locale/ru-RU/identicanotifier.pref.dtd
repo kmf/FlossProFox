@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Настройки IdentiFox">
+<!ENTITY identicanotifier.accounts "Учётные записи">
+<!ENTITY identicanotifier.username "Имя пользователя">
+<!ENTITY identicanotifier.password "Пароль">
+<!ENTITY identicanotifier.addAccount "Добавить учётную запись...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Удалить учётную запись...">
+<!ENTITY identicanotifier.preferences "Настройки">
+<!ENTITY identicanotifier.refreshInterval "Получить твиты">
+<!ENTITY identicanotifier.every3minutes "каждые 3 минуты">
+<!ENTITY identicanotifier.every5minutes "каждые 5 минут">
+<!ENTITY identicanotifier.every10minutes "каждые 10 минут">
+<!ENTITY identicanotifier.every15minutes "каждые 15 минут">
+<!ENTITY identicanotifier.every30minutes "каждые 30 минут">
+<!ENTITY identicanotifier.popupInterval "Popup interval">
+<!ENTITY identicanotifier.popup3sec "3 секунды">
+<!ENTITY identicanotifier.popup5sec "5 секунд">
+<!ENTITY identicanotifier.popup7sec "7 секунд">
+<!ENTITY identicanotifier.popup10sec "10 секунд">
+<!ENTITY identicanotifier.togglePopup "Открыть/Закрыть окно">
+<!ENTITY identicanotifier.insertURL "Вставить ссылку">
+<!ENTITY identicanotifier.revertKeyconfig "Инвертировать">
+<!ENTITY identicanotifier.popupBehavior "Window display">
+<!ENTITY identicanotifier.popupAutoclose "Закрывать окно автоматически">
+<!ENTITY identicanotifier.balloon "Popup display">
+<!ENTITY identicanotifier.showBalloon "Показывать всплывающие сообщения">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Перезаписать cookie браузера">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "If check this box, IdentiFox overwrite your browser cookie">
+<!ENTITY identicanotifier.sound "Звук">
+<!ENTITY identicanotifier.soundButton "Обзор...">

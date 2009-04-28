@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Prikaži obaveštenje">
+<!ENTITY identicanotifier.update "Osveži tvitove">
+<!ENTITY identicanotifier.markAllAsRead "Označi sve pročitanim">
+<!ENTITY identicanotifier.accounts "Izbor naloga">
+<!ENTITY identicanotifier.preference "Postavke...">
+<!ENTITY identicanotifier.logout "Odjava">
+<!ENTITY identicanotifier.linkButton.tooltip "Umetni adresu aktivnog jezička">
+<!ENTITY identicanotifier.recent.tooltip "Prikaži vremensku traku prijatelja">
+<!ENTITY identicanotifier.replies.tooltip "Prikaži odgovore">
+<!ENTITY identicanotifier.messages.tooltip "Prikaži direktne poruke">
+<!ENTITY identicanotifier.enterStatus.tooltip "Pritisnite Enter za ažuriranje stanja">
+<!ENTITY identicanotifier.replyButton.tooltip "Pošalji odgovor">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Postavi omiljeno">
+<!ENTITY identicanotifier.logo.tooltip "Idi na tviter">
+<!ENTITY identicanotifier.changeAccount.tooltip "Kliknite za promenu naloga">
+<!ENTITY identicanotifier.closeButton.tooltip "Zatvori prozor">
+<!ENTITY identicanotifier.copyDent "Umnoži">
+<!ENTITY identicanotifier.redent "Retvit">
+<!ENTITY identicanotifier.deleteDent "Ukloni ovaj tvit">
+<!ENTITY identicanotifier.openDentInTab "Otvori ovaj tvit u novom jezičku">
+<!ENTITY identicanotifier.clickToStart "Kliknite za početak">

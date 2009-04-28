@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Mostrar popup">
+<!ENTITY identicanotifier.update "Actualitzar dents">
+<!ENTITY identicanotifier.markAllAsRead "Marcar tot com a llegit">
+<!ENTITY identicanotifier.accounts "Canviar compte">
+<!ENTITY identicanotifier.preference "Preferències...">
+<!ENTITY identicanotifier.logout "Sortir">
+<!ENTITY identicanotifier.linkButton.tooltip "Inserir pestanyes d&apos;URL">
+<!ENTITY identicanotifier.recent.tooltip "Mostrar timeline dels teus amics">
+<!ENTITY identicanotifier.replies.tooltip "Mostrar respostes">
+<!ENTITY identicanotifier.messages.tooltip "Mostrar missatges directes">
+<!ENTITY identicanotifier.enterStatus.tooltip "Entra per actualitzar el teu estatus">
+<!ENTITY identicanotifier.replyButton.tooltip "Enviar Resposta">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Canviar favorit">
+<!ENTITY identicanotifier.logo.tooltip "Anar a identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Clicar per canviar de compte">
+<!ENTITY identicanotifier.closeButton.tooltip "Tancar finestra">
+<!ENTITY identicanotifier.copyDent "Copiar">
+<!ENTITY identicanotifier.redent "Redent">
+<!ENTITY identicanotifier.deleteDent "Esborrar aquest dent">
+<!ENTITY identicanotifier.openDentInTab "Obrir aquest dent en una nova pestanya">
+<!ENTITY identicanotifier.clickToStart "Clicar per Començar">

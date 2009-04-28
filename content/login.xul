@@ -1,0 +1,129 @@
+<?xml version="1.0"?> 
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://identicanotifier/content/identicanotifier.css" type="text/css"?>
+
+<!DOCTYPE dialog SYSTEM "chrome://identicanotifier/locale/identicanotifier.pref.dtd">
+
+<dialog xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+        xmlns:html="http://www.w3.org/1999/xhtml"
+        id="identicanotifier-login"
+        onload="return IdenticaNotifierLogin.onLoad();"
+	onunload="IdenticaNotifierLogin.onUnload();"
+        ondialogaccept="return IdenticaNotifierLogin.onSubmit();"
+	ondialogcancel="return IdenticaNotifierLogin.onCancel();"
+        buttons="accept,cancel"
+        title="&identicanotifier.title;" style="padding:0px;"
+        persist="screenX screenY">
+
+  <script type="application/x-javascript" src="chrome://identicanotifier/content/utility.js"/>
+  <script type="application/x-javascript" src="chrome://identicanotifier/content/login.js"/>
+
+  <stringbundle id="platformKeys" src="chrome://global-platform/locale/platformKeys.properties"/>
+  <stringbundle id="localeKeys" src="chrome://global/locale/keys.properties"/>
+  <stringbundle id="identicanotifier-strings" src="chrome://identicanotifier/locale/identicanotifier.pref.properties"/> 
+
+  <vbox align="center" style="border-bottom: 1px solid #999; padding-bottom: 3px; background: #fff">
+    <description style="padding-top: 10px" id="message" value=""/>
+  </vbox>
+
+  <groupbox flex="1">
+    <caption label="&identicanotifier.accounts;"/>
+    <hbox align="center">
+      <vbox flex="1">
+        <listbox id="accounts" rows="5"/>
+      </vbox>
+      <vbox>
+	    <button id="add-account-button"
+                    label="&identicanotifier.addAccount;" oncommand="IdenticaNotifierLogin.onAddAccount()"/>
+	    <button id="edit-account-button"
+                    label="&identicanotifier.editAccount;" oncommand="IdenticaNotifierLogin.onEditAccount()"/>
+	    <button id="remove-account-button" 
+		    label="&identicanotifier.removeAccount;" oncommand="IdenticaNotifierLogin.onRemoveAccount()"/>
+      </vbox>
+    </hbox>
+  </groupbox>
+
+  <groupbox>
+    <caption label="&identicanotifier.preferences;"/>
+    <grid>
+      <columns>
+	<column />
+	<column flex="1"/>
+      </columns>
+
+      <rows>
+	<row>
+          <hbox align="center">
+            <label control="refresh-interval" value="&identicanotifier.refreshInterval;" />
+          </hbox>
+          <menulist id="refresh-interval">
+	    <menupopup>
+	      <menuitem label="&identicanotifier.every3minutes;" value="3" />
+	      <menuitem label="&identicanotifier.every5minutes;" value="5"/>
+	      <menuitem label="&identicanotifier.every10minutes;" value="10"/>
+	      <menuitem label="&identicanotifier.every15minutes;" value="15" />
+	      <menuitem label="&identicanotifier.every30minutes;" value="30" />
+	    </menupopup>
+	  </menulist>
+	</row>
+	<row>
+          <hbox align="center">
+            <label control="popup-interval" value="&identicanotifier.popupInterval;"/>
+          </hbox>
+          <menulist id="popup-interval">
+	    <menupopup>
+	      <menuitem label="&identicanotifier.popup3sec;" value="3" />
+	      <menuitem label="&identicanotifier.popup5sec;" value="5"/>
+	      <menuitem label="&identicanotifier.popup7sec;" value="7" />
+	      <menuitem label="&identicanotifier.popup10sec;" value="10" />
+	    </menupopup>
+	  </menulist>
+	</row>
+	<row style="margin-top: 10px">
+	  <hbox align="center">
+            <label control="toggle-popup" value="&identicanotifier.togglePopup;"/>
+	  </hbox>
+	  <hbox align="center">
+	    <textbox id="identicanotifier-key-togglePopup"  flex="1"
+		     onclick="this.select()" onkeypress="IdenticaNotifierLogin.recognize(event);"/>
+	    <button label="&identicanotifier.revertKeyconfig;" oncommand="IdenticaNotifierLogin.revert(event)"/>
+	  </hbox>
+	</row>
+	<row>
+	  <hbox align="center">
+            <label control="toggle-popup" value="&identicanotifier.insertURL;"/>
+	  </hbox>
+	  <hbox align="center">
+	    <textbox id="identicanotifier-key-insertURL" flex="1"
+		     onclick="this.select()" onkeypress="IdenticaNotifierLogin.recognize(event);"/>
+	    <button label="&identicanotifier.revertKeyconfig;" oncommand="IdenticaNotifierLogin.revert(event)"/>
+	  </hbox>
+	</row>
+	<row>
+	  <hbox align="center">
+            <label value="&identicanotifier.balloon;"/>
+	  </hbox>
+	  <checkbox id="balloon-popup" label="&identicanotifier.showBalloon;" />
+	</row>
+	<row>
+	  <hbox align="center">
+            <label value="&identicanotifier.popupBehavior;"/>
+	  </hbox>
+	  <checkbox id="popup-autoclose" label="&identicanotifier.popupAutoclose;" />
+	</row>
+	<row>
+	  <hbox align="center">
+            <label value="&identicanotifier.sound;"/>
+	  </hbox>
+	  <hbox align="center">
+	    <checkbox id="sound" oncommand="IdenticaNotifierLogin.onCheckSound(!this.checked)"/>
+	    <textbox id="sound-file"/>
+	    <button id="choose-sound" label="&identicanotifier.soundButton;" oncommand="IdenticaNotifierLogin.onBrowseFile()"/>
+	  </hbox>
+	</row>
+      </rows>
+    </grid>
+  </groupbox>
+</dialog>
+

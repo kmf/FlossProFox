@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox tercihleri">
+<!ENTITY identicanotifier.accounts "Hesaplar">
+<!ENTITY identicanotifier.username "Kullanıcı adı">
+<!ENTITY identicanotifier.password "Şifre">
+<!ENTITY identicanotifier.addAccount "Hesap ekle...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Hesap Sil...">
+<!ENTITY identicanotifier.preferences "Tercihler">
+<!ENTITY identicanotifier.refreshInterval "Dentleri">
+<!ENTITY identicanotifier.every3minutes "her 3 dakikada bir al">
+<!ENTITY identicanotifier.every5minutes "her 5 dakikada bir al">
+<!ENTITY identicanotifier.every10minutes "her 10 dakikada bir al">
+<!ENTITY identicanotifier.every15minutes "her 15 dakikada bir al">
+<!ENTITY identicanotifier.every30minutes "her 30 dakikada bir al">
+<!ENTITY identicanotifier.popupInterval "Açılır pencere süresi">
+<!ENTITY identicanotifier.popup3sec "3 saniye">
+<!ENTITY identicanotifier.popup5sec "5 saniye">
+<!ENTITY identicanotifier.popup7sec "7 saniye">
+<!ENTITY identicanotifier.popup10sec "10 saniye">
+<!ENTITY identicanotifier.togglePopup "Pencere Aç/Kapat">
+<!ENTITY identicanotifier.insertURL "URL Ekle">
+<!ENTITY identicanotifier.revertKeyconfig "Sıfırla">
+<!ENTITY identicanotifier.popupBehavior "Pencere gösterimi">
+<!ENTITY identicanotifier.popupAutoclose "Pencereyi otomatik olarak kapat">
+<!ENTITY identicanotifier.balloon "Açılır pencere">
+<!ENTITY identicanotifier.showBalloon "Balon tarzı açılır pencere">
+<!ENTITY identicanotifier.cookie "Çerez">
+<!ENTITY identicanotifier.overwriteCookie "Tarayıcı çerezlerinin üzerine yaz">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Eğer bu kutucuk işaretliyse IdentiFox çerezlerinizin üzerine yazım yapar">
+<!ENTITY identicanotifier.sound "Uyarı sesi">
+<!ENTITY identicanotifier.soundButton "Gözat...">

@@ -1,0 +1,424 @@
+/* Status bar button */
+
+#identicanotifier-statusbar-button {
+  list-style-image: url("chrome://identicanotifier/content/statusbar.png");
+  display: -moz-box;
+  -moz-image-region: rect(16px, 16px, 32px, 0px);
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+#identicanotifier-statusbar-button[state="active"] { 
+  list-style-image: url("chrome://identicanotifier/content/statusbar.png");
+  -moz-image-region: rect(32px, 16px, 48px, 0px);
+}
+
+#identicanotifier-statusbar-button[state="error"] {
+  list-style-image: url("chrome://identicanotifier/content/statusbar.png");
+  -moz-image-region: rect(0px, 16px, 16px, 0px);
+}
+
+#identicanotifier-panel { 
+  border: none;
+}
+
+/*
+   XBL styles
+*/
+.identicanotifier-status {
+  -moz-binding: url("chrome://identicanotifier/content/identicanotifier.xml#identicanotifier-status");
+  padding: 2px;
+  width: 260px;
+  margin-bottom: 0px;
+  background: #ffc14f;
+  color: #000;
+  -moz-border-radius: 0;
+  margin-bottom: 0px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.identicanotifier-status[unread="true"]
+{ 
+  background: #f0f2f5;
+}
+
+.identicanotifier-status:hover { 
+  background: #cee1e9;
+}
+
+.identicanotifier-status[attr="replies"] { 
+  background: #c4de68;
+}
+
+.identicanotifier-status[attr="replies"][unread="true"]
+{ 
+  background: #dbf388;
+}
+
+.identicanotifier-status:hover[attr="replies"] { 
+  background: #c4de68;
+}
+
+.identicanotifier-status[attr="messages"] { 
+  background: #fd8e8e;
+}
+
+.identicanotifier-status[attr="messages"][unread="true"]
+{
+  background: #ffb7b7;
+}
+
+.identicanotifier-status:hover[attr="messages"] { 
+  background: #fd8e8e;
+}
+
+.identicanotifier-popup { 
+  -moz-binding: url("chrome://identicanotifier/content/identicanotifier.xml#identicanotifier-popup");
+  background: #ffc14f;
+  border: 1px solid #ffffff;
+}
+
+.identica-autocomplete { 
+  -moz-binding: url("chrome://identicanotifier/content/autocomplete.xml#identica-autocomplete");
+}
+
+.identicanotifier-popup-logo-box { 
+  margin: 1px 0px;
+}
+
+.identicanotifier-popup-logo:hover { 
+  cursor: pointer;
+}
+
+.identicanotifier-close-button { 
+  list-style-image: url("chrome://identicanotifier/content/close.png");
+  display: -moz-box;
+  -moz-image-region: rect(0px, 12px, 12px, 0px);
+  padding: 2px;
+  cursor: pointer;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.identicanotifier-close-button:hover { 
+  list-style-image: url("chrome://identicanotifier/content/close.png");
+  -moz-image-region: rect(12px, 12px, 24px, 0px);
+}
+
+.identicanotifier-close-button:active { 
+  list-style-image: url("chrome://identicanotifier/content/close.png");
+  -moz-image-region: rect(24px, 12px, 36px, 0px);
+}
+
+.identicanotifier-status-hbox-container { 
+  max-height: 128px;
+}
+
+.identicanotifier-status-usericon {
+  width: 32px;
+  max-width: 32px;
+  max-height: 32px;
+  height: 32px;
+  margin: 2px;
+  padding: 0px;
+  cursor: pointer;
+}
+
+.identicanotifier-status-user {
+  font-weight: bold;
+}
+
+.identicanotifier-status-messagebox { 
+  width: 220px;
+  max-width: 220px;
+  margin-right: 2px;
+  height: 16px;
+  max-height: 128px;
+  overflow: visible;
+}
+
+.identicanotifier-status-message {
+  margin: 1px;
+}
+
+/*
+ * Reply button
+ */
+.identicanotifier-status-reply {
+  list-style-image: url("chrome://identicanotifier/content/buttons.png");
+  display: -moz-box;
+  -moz-image-region: rect(15px, 16px, 30px, 0px);
+  padding: 0px;
+  margin: 0px;
+  cursor: pointer;
+  width: 16px;
+}
+
+.identicanotifier-status-reply:hover {
+  -moz-image-region: rect(0px, 16px, 15px, 0px);
+}
+
+.identicanotifier-status-reply:active {
+  -moz-image-region: rect(30px, 16px, 45px, 0px);
+}
+
+.identicanotifier-status-reply[type="balloon"],
+.identicanotifier-status-reply:hover[type="balloon"],
+.identicanotifier-status-reply:active[type="balloon"] {
+  display: none;				     
+}
+/*
+ * Favorite button
+ */
+.identicanotifier-status-favorite {
+  list-style-image: url("chrome://identicanotifier/content/buttons.png");
+  -moz-image-region: rect(60px, 16px, 75px, 0px);
+  display: -moz-box;
+  padding: 0px;
+  margin: 0px;
+  cursor: pointer;
+  width: 16px;
+}
+
+.identicanotifier-status-favorite:hover {
+  -moz-image-region: rect(45px, 16px, 60px, 0px);
+}
+
+.identicanotifier-status-favorite:active {
+  -moz-image-region: rect(75px, 16px, 90px, 0px);
+}
+
+.identicanotifier-status-favorite[type="balloon"],
+.identicanotifier-status-favorite:hover[type="balloon"],
+.identicanotifier-status-favorite:active[type="balloon"],
+.identicanotifier-status-favorite[attr="messages"],
+.identicanotifier-status-favorite:hover[attr="messages"],
+.identicanotifier-status-favorite:active[attr="messages"] { 
+  display: none;
+}
+
+.identicanotifier-status-favorite[favorited="true"] {
+  -moz-image-region: rect(105px, 16px, 120px, 0px);
+}
+
+.identicanotifier-status-favorite:hover[favorited="true"] {
+  -moz-image-region: rect(90px, 16px, 105px, 0px);
+}
+
+.identicanotifier-status-favorite:active[favorited="true"] {
+  -moz-image-region: rect(120px, 16px, 135px, 0px);
+}
+
+.identicanotifier-statusbox { 
+  height: 300px;
+  max-height: 300px;
+  width: 266px;
+  margin-left: 2px;
+  margin-right: 1px;
+  -moz-border-radius: 3px;
+  border: 3px solid #fff;
+  background: #fff;
+}
+
+.identicanotifier-scrollbar { 
+  -moz-border-radius: 6px;
+  background: #fff;
+  margin: 1px 2px;
+}
+
+.identicanotifier-scroll-thumb { 
+  -moz-border-radius: 6px;
+  background: #f0f2f5;
+  padding: 1px 0px;
+  width: 16px;
+  border: solid 1px #fff;
+  min-height: 16px;
+}
+
+.identicanotifier-scroll-thumb:hover { 
+  background: #ffc14f;
+}
+
+.identicanotifier-scroll-thumb:active { 
+  background: #abc5d0;
+}
+
+.identicanotifier-toolbar { 
+  -moz-binding: url("chrome://identicanotifier/content/identicanotifier.xml#identicanotifier-toolbar");
+  margin: 0px;
+  margin-bottom: 2px;
+  padding: 0px 1px 0px 1px;
+}
+
+#identicanotifier-input-container { 
+  height: 30px;
+}
+
+#identicanotifier-message-input { 
+  padding: 1px 0px;
+  color: #000;
+  background: #fff;
+  background-color: #fff;
+  width: 240px;
+}
+
+#identicanotifier-progressmeter { 
+  margin-top: 8px;
+}
+
+#identicanotifier-error-message { 
+  margin: 4px 4px 0px 4px;
+  -moz-border-radius: 2px;
+  color: #333;
+  border: 1px solid #a26d6c;
+  padding: 2px;
+  background: #E89C9A;
+  text-align: center;
+}
+
+.identicanotifier-current-account { 
+  border: 1px solid #ffc14f;
+  width: 190px;
+  max-width: 190px;
+  overflow: hidden;
+  background: #ffc14f;
+  margin: 0px;
+  color: #000;
+  cursor: pointer;
+}
+
+.identicanotifier-current-account-name { 
+  cursor: pointer;
+  border: 1px solid #ffc14f;
+  margin: 0px;
+  padding: 0px 4px;
+}
+
+.identicanotifier-current-account-name:hover,
+.identicanotifier-current-account-name:active { 
+  cursor: pointer;
+  border: 1px solid #f0f2f5;
+  background: #f0f2f5;
+  -moz-border-radius: 3px;
+}
+
+.identicanotifier-current-account-icon { 
+  width: 16px;
+  height: 16px;
+}
+
+.identicanotifier-tab {
+  -moz-border-radius-bottomleft: 4px;
+  -moz-border-radius-bottomright: 4px;
+  padding: 4px;
+  margin: 0px;
+  text-align: center;
+  color: #4aa;
+  background: #f0f2f5;
+  border-top: 1px solid #ffc14f;
+  border-right: 1px solid #ffc14f;
+  border-bottom: 1px solid #ffc14f;
+  cursor: pointer;
+  font-size: 8.5pt;
+}
+
+.identicanotifier-tab[attr="active"] {
+  color: #000;
+  background: #fff;
+  border-top: 1px solid #fff;
+  border-right: 1px solid #ffc14f;
+  border-bottom: 1px solid #ffc14f;
+}
+
+.identicanotifier-tab[unread="true"] { 
+  font-weight: bold;
+}
+
+.identicanotifier-charcount {
+  -moz-border-radius: 6px;
+  border: solid 1px #fff;
+  background: #fff;
+  width: 28px;
+  padding: 0px 2px;
+  margin: 0px 2px;
+  text-align: right;
+  color: #000;
+}
+
+.identicanotifier-charcount[charover="1"] {
+  color: #c00;
+}
+
+.identicanotifier-linkbutton { 
+  list-style-image: url("chrome://identicanotifier/content/link.png");
+  display: -moz-box;
+  -moz-image-region: rect(0px, 16px, 15px, 0px);
+  margin: 0px 3px 0px 1px;
+}
+
+.identicanotifier-linkbutton:hover { 
+  -moz-image-region: rect(15px, 16px, 30px, 0px);
+}
+
+.identicanotifier-linkbutton:active { 
+  -moz-image-region: rect(30px, 16px, 45px, 0px);
+}
+
+/*
+   message body
+*/
+.identicanotifier-message-body { 
+  padding: 0px;
+  margin: 0px;
+}
+
+.identicanotifier-hyperlink { 
+  color: #00c;
+  display: -moz-inline-box;
+  display: inline-block;
+}
+
+.identicanotifier-hyperlink:hover { 
+  text-decoration: underline;
+  color: #c00;
+  cursor: pointer;
+}
+
+/* 
+   Notice box
+*/
+.identicanotifier-notice {
+  -moz-binding: url("chrome://identicanotifier/content/identicanotifier.xml#identicanotifier-notice");
+  padding: 2px;
+  width: 120px;
+  background: #ffc14f;
+  color: #000;
+  -moz-border-radius: 0;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.identicanotifier-notice-message {
+  margin: 4px 6px 4px 2px;
+}
+
+.identicanotifier-notice-check {
+  list-style-image: url("chrome://identicanotifier/content/check.png");
+  margin: 4px;
+  width: 16px;
+  height: 16px;
+}
+
+.identicanotifier-notice-arrow {
+  list-style-image: url("chrome://identicanotifier/content/arrow.png");
+  margin: 4px;
+  width: 16px;
+  height: 16px;
+}
+
+/*
+   login panel
+*/
+.identicanotifier-keyconfig {
+  -moz-binding: url("chrome://identicanotifier/content/identicanotifier.xml#identicanotifier-keyconfig");
+}

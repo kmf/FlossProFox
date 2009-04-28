@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "แสดงหน้าต่าง">
+<!ENTITY identicanotifier.update "ปรับปรุงทวิตเดี๋ยวนี้">
+<!ENTITY identicanotifier.markAllAsRead "กำหนดว่าข้อความทั้งหมดอ่านแล้ว">
+<!ENTITY identicanotifier.accounts "เปลี่ยนบัญชีผู้ใช้">
+<!ENTITY identicanotifier.preference "กำหนดรายละเอียด...">
+<!ENTITY identicanotifier.logout "ออกจากระบบ">
+<!ENTITY identicanotifier.linkButton.tooltip "แทรก URL ของแท็บปัจจุบัน">
+<!ENTITY identicanotifier.recent.tooltip "แสดงรายการข้อความของเพื่อนคุณ">
+<!ENTITY identicanotifier.replies.tooltip "แสดงข้อความตอบกลับ">
+<!ENTITY identicanotifier.messages.tooltip "แสดงข้อความส่งถึงโดยตรง">
+<!ENTITY identicanotifier.enterStatus.tooltip "ป้อนข้อความเพื่อปรับปรุงสถานะของคุณ">
+<!ENTITY identicanotifier.replyButton.tooltip "ตอบกลับ">
+<!ENTITY identicanotifier.favoriteButton.tooltip "สลับสถานะรายการโปรด">
+<!ENTITY identicanotifier.logo.tooltip "ไปยังทวิตเตอร์">
+<!ENTITY identicanotifier.changeAccount.tooltip "คลิกเพื่อเปลี่ยนบัญชีผู้ใช้">
+<!ENTITY identicanotifier.closeButton.tooltip "ปิดหน้าต่าง">
+<!ENTITY identicanotifier.copyDent "คัดลอก">
+<!ENTITY identicanotifier.redent "รีทวิต">
+<!ENTITY identicanotifier.deleteDent "ลบทวิตนี้">
+<!ENTITY identicanotifier.openDentInTab "เปิดทวิตนี้ในแท๊บใหม่">
+<!ENTITY identicanotifier.clickToStart "คลิกเพื่อเริ่ม">

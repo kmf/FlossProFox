@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Pokazuj wyskakujące okno">
+<!ENTITY identicanotifier.update "Zaktualizuj denty">
+<!ENTITY identicanotifier.markAllAsRead "Oznacz wszystkie jako przeczytane">
+<!ENTITY identicanotifier.accounts "Zmień konto">
+<!ENTITY identicanotifier.preference "Preferencje...">
+<!ENTITY identicanotifier.logout "Wyloguj się">
+<!ENTITY identicanotifier.linkButton.tooltip "Wstaw adres aktywnej karty">
+<!ENTITY identicanotifier.recent.tooltip "Pokaż oś czasu z wiadomościami od znajomych">
+<!ENTITY identicanotifier.replies.tooltip "Pokaż odpowiedzi">
+<!ENTITY identicanotifier.messages.tooltip "Pokaż bezpośrednie wiadomości">
+<!ENTITY identicanotifier.enterStatus.tooltip "Wypełnij to pole, aby zaktualizować swój stan">
+<!ENTITY identicanotifier.replyButton.tooltip "Odpowiedz">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Przełącz oznaczenie jako ulubione">
+<!ENTITY identicanotifier.logo.tooltip "Przejdź na swoją stronę w identicaze">
+<!ENTITY identicanotifier.changeAccount.tooltip "Kliknij, aby zmienić aktywne konto">
+<!ENTITY identicanotifier.closeButton.tooltip "Zamknij okno">
+<!ENTITY identicanotifier.copyDent "Kopiuj">
+<!ENTITY identicanotifier.redent "Wyślij ponownie">
+<!ENTITY identicanotifier.deleteDent "Usuń ten dent">
+<!ENTITY identicanotifier.openDentInTab "Otwórz ten dent w nowej karcie">
+<!ENTITY identicanotifier.clickToStart "Kliknij, aby rozpocząć">

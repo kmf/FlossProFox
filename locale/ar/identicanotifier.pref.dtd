@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "تفضيلات IdentiFox">
+<!ENTITY identicanotifier.accounts "حسابات">
+<!ENTITY identicanotifier.username "اسم المستخدم">
+<!ENTITY identicanotifier.password "كلمة السر">
+<!ENTITY identicanotifier.addAccount "اضافة حساب ...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "حذف حساب ...">
+<!ENTITY identicanotifier.preferences "تفضيلات">
+<!ENTITY identicanotifier.refreshInterval "احصل على dents">
+<!ENTITY identicanotifier.every3minutes "كل 3 دقائق">
+<!ENTITY identicanotifier.every5minutes "كل 5 دقائق">
+<!ENTITY identicanotifier.every10minutes "كل 10 دقائق">
+<!ENTITY identicanotifier.every15minutes "كل 15 دقائق">
+<!ENTITY identicanotifier.every30minutes "كل 30 دقائق">
+<!ENTITY identicanotifier.popupInterval "فاصلة منبثقة">
+<!ENTITY identicanotifier.popup3sec "3 ثواني">
+<!ENTITY identicanotifier.popup5sec "3 ثواني">
+<!ENTITY identicanotifier.popup7sec "7 ثواني">
+<!ENTITY identicanotifier.popup10sec "10 ثواني">
+<!ENTITY identicanotifier.togglePopup "فتح / اغلاق نافذة">
+<!ENTITY identicanotifier.insertURL "ادراج رابط">
+<!ENTITY identicanotifier.revertKeyconfig "تراجع">
+<!ENTITY identicanotifier.popupBehavior "نافذة عرض">
+<!ENTITY identicanotifier.popupAutoclose "اغلاق النافذة تلقائيا">
+<!ENTITY identicanotifier.balloon "منبثقة عرض">
+<!ENTITY identicanotifier.showBalloon "عرض بالون منبثق">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "استبدال مستعرض cookie">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "اذا حددت المربع, IdentiFox استبدال مستعرض cookie">
+<!ENTITY identicanotifier.sound "صوت التنبيهات">
+<!ENTITY identicanotifier.soundButton "استعراض">

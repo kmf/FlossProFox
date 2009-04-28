@@ -1,0 +1,3 @@
+content	identicanotifier	content/
+overlay	chrome://browser/content/browser.xul	chrome://identicanotifier/content/identicanotifier.xul
+overlay	chrome://emusic/content/startup.xul	chrome://identicanotifier/content/identicanotifier.xul

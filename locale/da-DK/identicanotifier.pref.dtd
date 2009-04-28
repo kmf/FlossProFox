@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox indstillinger">
+<!ENTITY identicanotifier.accounts "Konti">
+<!ENTITY identicanotifier.username "Brugernavn">
+<!ENTITY identicanotifier.password "Adgangskode">
+<!ENTITY identicanotifier.addAccount "Tilføj konto...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Fjern konto...">
+<!ENTITY identicanotifier.preferences "Indstillinger">
+<!ENTITY identicanotifier.refreshInterval "Hent dents">
+<!ENTITY identicanotifier.every3minutes "hvert 3. minut">
+<!ENTITY identicanotifier.every5minutes "hvert 5. minut">
+<!ENTITY identicanotifier.every10minutes "hvert 10. minut">
+<!ENTITY identicanotifier.every15minutes "hvert 15. minut">
+<!ENTITY identicanotifier.every30minutes "hvert 30 minut">
+<!ENTITY identicanotifier.popupInterval "Popup-interval">
+<!ENTITY identicanotifier.popup3sec "3 sekunder">
+<!ENTITY identicanotifier.popup5sec "5 sekunder">
+<!ENTITY identicanotifier.popup7sec "7 sekunder">
+<!ENTITY identicanotifier.popup10sec "10 sekunder">
+<!ENTITY identicanotifier.togglePopup "Åbn/Luk vindue">
+<!ENTITY identicanotifier.insertURL "Indsæt URL">
+<!ENTITY identicanotifier.revertKeyconfig "Gendan">
+<!ENTITY identicanotifier.popupBehavior "Vinduesvisning">
+<!ENTITY identicanotifier.popupAutoclose "Luk automatisk vindue">
+<!ENTITY identicanotifier.balloon "Popup-visning">
+<!ENTITY identicanotifier.showBalloon "Vis ballon-popup">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Overskriv browser cookie">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Identicafox overskriver din browser cookie, hvis denne boks er checket">
+<!ENTITY identicanotifier.sound "Påmindelseslyd">
+<!ENTITY identicanotifier.soundButton "Gennemse...">

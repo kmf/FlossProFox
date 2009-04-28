@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>identifox@uncryptic.com</em:id>
+    <em:name>FlossProFox</em:name>
+    <em:version>0.9</em:version>
+    <em:creator>Kazuho Okui</em:creator>
+    <em:description>Based on the IdentiFox extention, this extension displays status messages from Floss.pro.</em:description>
+    <em:contributor>Masayoshi Sekimura: http://sekimura.vox.com</em:contributor>
+    <em:contributor>Alliance Port: http://allianceport.jp</em:contributor>
+    <em:contributor>James Polera: http://uncryptic.com - initial Identi.ca conversion</em:contributor>
+    <em:contributor>Aaron Williamson: http://www.copiesofcopies.org - finished conversion and made compatible with TwitterFox</em:contributor>
+    <em:translator>Wacław Jacek</em:translator>
+    <em:translator>Neto Cury</em:translator>
+    <em:translator>Alex Shih-Han Lin</em:translator>
+    <em:translator>Emilio Sepulveda</em:translator>
+    <em:translator>Alberto Eidh</em:translator>
+    <em:translator>Ramón Corominas</em:translator>
+    <em:translator>markh</em:translator>
+    <em:translator>jojaba</em:translator>
+    <em:translator>DJFunkinmixer</em:translator>
+    <em:translator>Ziru Zhu</em:translator>
+    <em:translator>lassedahl</em:translator>
+    <em:translator>animarval</em:translator>
+    <em:translator>sohle</em:translator>
+    <em:translator>AtteL</em:translator>
+    <em:translator>urke</em:translator>
+    <em:translator>koki</em:translator>
+    <em:translator>marcosegato</em:translator>
+    <em:translator>bahramm</em:translator>
+    <em:translator>PetrTwo</em:translator>
+    <em:translator>dextor</em:translator>
+    <em:translator>efecan</em:translator>
+    <em:homepageURL>http://blog.floss.pro/flossprofox</em:homepageURL>
+    <em:iconURL>chrome://identicanotifier/content/icon.png</em:iconURL>
+    <em:optionsURL>chrome://identicanotifier/content/login.xul</em:optionsURL>
+   <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+        <em:minVersion>3.0</em:minVersion>
+        <em:maxVersion>3.1b3</em:maxVersion>
+      </Description>
+   </em:targetApplication>
+
+   <em:targetApplication>
+      <Description>
+        <em:id>dlm@emusic.com</em:id> <!-- emusicd -->
+        <em:minVersion>1.0</em:minVersion>
+        <em:maxVersion>1.0.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

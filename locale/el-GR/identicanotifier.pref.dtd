@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Προτιμήσεις IdentiFox">
+<!ENTITY identicanotifier.accounts "Λογαριασμοί">
+<!ENTITY identicanotifier.username "Όνομα Χρήστη">
+<!ENTITY identicanotifier.password "Κωδικός">
+<!ENTITY identicanotifier.addAccount "Προσθήκη λογαριασμού">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Αφαίρεση λογαριασμού">
+<!ENTITY identicanotifier.preferences "Προτιμήσεις">
+<!ENTITY identicanotifier.refreshInterval "Λήψη dents">
+<!ENTITY identicanotifier.every3minutes "κάθε 3 λεπτά">
+<!ENTITY identicanotifier.every5minutes "κάθε 5 λεπτά">
+<!ENTITY identicanotifier.every10minutes "κάθε 10 λεπτά">
+<!ENTITY identicanotifier.every15minutes "κάθε 15 λεπτά">
+<!ENTITY identicanotifier.every30minutes "κάθε 30 λεπτά">
+<!ENTITY identicanotifier.popupInterval "Διάρκεια εμφάνισης αναδυόμενου μηνύματος">
+<!ENTITY identicanotifier.popup3sec "3 δευτερόλεπτα">
+<!ENTITY identicanotifier.popup5sec "5 δευτερόλεπτα">
+<!ENTITY identicanotifier.popup7sec "7 δευτερόλεπτα">
+<!ENTITY identicanotifier.popup10sec "10 δευτερόλεπτα">
+<!ENTITY identicanotifier.togglePopup "Άνοιγμα/Κλείσιμο παραθύρου">
+<!ENTITY identicanotifier.insertURL "Εισαγωγή URL">
+<!ENTITY identicanotifier.revertKeyconfig "Αναίρεση">
+<!ENTITY identicanotifier.popupBehavior "Εμφάνιση παραθύρου">
+<!ENTITY identicanotifier.popupAutoclose "Να μην κλείνει αυτόματα το παράθυρο">
+<!ENTITY identicanotifier.balloon "Εμφάνιση αναδυόμενης ειδοποίησης">
+<!ENTITY identicanotifier.showBalloon "Εμφάνισε αναδυόμενο μήνυμα">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Αντικατάσταση cookie φυλλομετρητή">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Εάν σημειώσετε αυτή την επιλογή, το IdentiFox θα αντικαταστήσει το browser cookie σας">
+<!ENTITY identicanotifier.sound "Ήχος ειδοποίησης">
+<!ENTITY identicanotifier.soundButton "Εύρεση...">

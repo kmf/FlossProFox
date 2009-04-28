@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox preferences">
+<!ENTITY identicanotifier.accounts "Accounts">
+<!ENTITY identicanotifier.username "Username">
+<!ENTITY identicanotifier.password "Password">
+<!ENTITY identicanotifier.addAccount "Add account...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Remove account...">
+<!ENTITY identicanotifier.preferences "Preferences">
+<!ENTITY identicanotifier.refreshInterval "Get dents">
+<!ENTITY identicanotifier.every3minutes "every 3 minutes">
+<!ENTITY identicanotifier.every5minutes "every 5 minutes">
+<!ENTITY identicanotifier.every10minutes "every 10 minutes">
+<!ENTITY identicanotifier.every15minutes "every 15 minutes">
+<!ENTITY identicanotifier.every30minutes "every 30 minutes">
+<!ENTITY identicanotifier.popupInterval "Popup interval">
+<!ENTITY identicanotifier.popup3sec "3 seconds">
+<!ENTITY identicanotifier.popup5sec "5 seconds">
+<!ENTITY identicanotifier.popup7sec "7 seconds">
+<!ENTITY identicanotifier.popup10sec "10 seconds">
+<!ENTITY identicanotifier.togglePopup "Open/Close window">
+<!ENTITY identicanotifier.insertURL "Insert URL">
+<!ENTITY identicanotifier.revertKeyconfig "Revert">
+<!ENTITY identicanotifier.popupBehavior "Window display">
+<!ENTITY identicanotifier.popupAutoclose "Close window automatically">
+<!ENTITY identicanotifier.balloon "Popup display">
+<!ENTITY identicanotifier.showBalloon "Show balloon popup">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Overwrite browser cookie">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "If check this box, IdentiFox overwrite your browser cookie">
+<!ENTITY identicanotifier.sound "Notification sound">
+<!ENTITY identicanotifier.soundButton "Browse...">

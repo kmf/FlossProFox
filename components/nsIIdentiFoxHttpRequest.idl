@@ -1,0 +1,28 @@
+#include "nsISupports.idl"
+
+interface nsIDOMEventListener;
+interface nsIHttpChannel;
+
+[scriptable, uuid(A523B838-05C0-11DE-89F0-4C2A56D89593)]
+interface nsIIdentiFoxHttpRequest : nsISupports
+{
+  void  setURL(in AString url);
+  void  setPostData(in AString data);
+  void  setBasicAuth(in AString username, in AString password);
+  void  asyncOpen();
+  void  setRedirectLimitation(in long count);
+  void  setTimeout(in long millisecond);
+
+  nsIHttpChannel httpChannel();
+  
+  void  abort();
+
+  attribute AString     status;
+  attribute AString     callback;
+  attribute AString     responseText;
+
+  // callbacks
+  attribute nsIDOMEventListener onload;
+  attribute nsIDOMEventListener onerror;
+  attribute nsIDOMEventListener ontimeout;
+};

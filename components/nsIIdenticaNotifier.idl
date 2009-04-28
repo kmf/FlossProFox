@@ -1,0 +1,9 @@
+#include "nsISupports.idl"
+
+[scriptable, uuid(3667967C-044D-11DE-B122-E76256D89593)]
+
+interface nsIIdenticaNotifier : nsISupports 
+{ 
+  AString getDecodedTinyURL(in AString url);
+  long    getUnreadCount();
+};

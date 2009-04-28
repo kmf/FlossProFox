@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Näytä ikkuna">
+<!ENTITY identicanotifier.update "Hae uudet päivitykset">
+<!ENTITY identicanotifier.markAllAsRead "Merkitse kaikki luetuksi">
+<!ENTITY identicanotifier.accounts "Vaihda tunnus">
+<!ENTITY identicanotifier.preference "Asetukset...">
+<!ENTITY identicanotifier.logout "Kirjaudu ulos">
+<!ENTITY identicanotifier.linkButton.tooltip "Liitä avoimen välilehden URL">
+<!ENTITY identicanotifier.recent.tooltip "Näytä ystäviesi aikajana">
+<!ENTITY identicanotifier.replies.tooltip "Näytä vastaukset">
+<!ENTITY identicanotifier.messages.tooltip "Näytä yksityisviestit">
+<!ENTITY identicanotifier.enterStatus.tooltip "Paina Enter päivittääksesi tilasi">
+<!ENTITY identicanotifier.replyButton.tooltip "Lähetä vastaus">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Toggle favorite">
+<!ENTITY identicanotifier.logo.tooltip "Mene Identicaiin">
+<!ENTITY identicanotifier.changeAccount.tooltip "Klikkaa vaihtaaksesi tunnusta">
+<!ENTITY identicanotifier.closeButton.tooltip "Sulje ikkuna">
+<!ENTITY identicanotifier.copyDent "Kopioi">
+<!ENTITY identicanotifier.redent "Lähetä uudelleen">
+<!ENTITY identicanotifier.deleteDent "Poista">
+<!ENTITY identicanotifier.openDentInTab "Avaa uudessa välilehdessä">
+<!ENTITY identicanotifier.clickToStart "Napsauta aloittaaksesi">

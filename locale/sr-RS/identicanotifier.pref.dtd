@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Поставке за IdentiFox">
+<!ENTITY identicanotifier.accounts "Налози">
+<!ENTITY identicanotifier.username "Корисничко име">
+<!ENTITY identicanotifier.password "Лозинка">
+<!ENTITY identicanotifier.addAccount "Додај налог">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Уклони налог">
+<!ENTITY identicanotifier.preferences "Поставке">
+<!ENTITY identicanotifier.refreshInterval "Преузми твитове">
+<!ENTITY identicanotifier.every3minutes "свака 3 минута">
+<!ENTITY identicanotifier.every5minutes "сваких 5 минута">
+<!ENTITY identicanotifier.every10minutes "сваких 10 минута">
+<!ENTITY identicanotifier.every15minutes "сваких 15 минута">
+<!ENTITY identicanotifier.every30minutes "сваких 30 минута">
+<!ENTITY identicanotifier.popupInterval "Трајање обавештења">
+<!ENTITY identicanotifier.popup3sec "3 секунде">
+<!ENTITY identicanotifier.popup5sec "5 секунди">
+<!ENTITY identicanotifier.popup7sec "7 секунди">
+<!ENTITY identicanotifier.popup10sec "10 секунди">
+<!ENTITY identicanotifier.togglePopup "Приказ прозора">
+<!ENTITY identicanotifier.insertURL "Уметање везе">
+<!ENTITY identicanotifier.revertKeyconfig "Врати">
+<!ENTITY identicanotifier.popupBehavior "Прозорче">
+<!ENTITY identicanotifier.popupAutoclose "аутоматско затварање прозорчета">
+<!ENTITY identicanotifier.balloon "Обавештења">
+<!ENTITY identicanotifier.showBalloon "приказивање балончића са обавештењима">
+<!ENTITY identicanotifier.cookie "Колачићи">
+<!ENTITY identicanotifier.overwriteCookie "Препиши колачиће прегледача">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Ако је омогућено, IdentiFox ће преписати колачиће прегледача">
+<!ENTITY identicanotifier.sound "Звук обавештења">
+<!ENTITY identicanotifier.soundButton "Потражи...">

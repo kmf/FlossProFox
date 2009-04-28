@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Preferencias de IdentiFox">
+<!ENTITY identicanotifier.accounts "Contas">
+<!ENTITY identicanotifier.username "Nome de usuario">
+<!ENTITY identicanotifier.password "Contrasinal">
+<!ENTITY identicanotifier.addAccount "Engadir conta">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Eliminar conta">
+<!ENTITY identicanotifier.preferences "Preferencias">
+<!ENTITY identicanotifier.refreshInterval "Obter dents">
+<!ENTITY identicanotifier.every3minutes "cada 3 minutos">
+<!ENTITY identicanotifier.every5minutes "cada 5 minutos">
+<!ENTITY identicanotifier.every10minutes "cada 10 minutos">
+<!ENTITY identicanotifier.every15minutes "cada 15 minutos">
+<!ENTITY identicanotifier.every30minutes "cada 30 minutos">
+<!ENTITY identicanotifier.popupInterval "Intervalo de avisos emerxentes">
+<!ENTITY identicanotifier.popup3sec "3 segundos">
+<!ENTITY identicanotifier.popup5sec "5 segundos">
+<!ENTITY identicanotifier.popup7sec "7 segundos">
+<!ENTITY identicanotifier.popup10sec "10 segundos">
+<!ENTITY identicanotifier.togglePopup "Abrir/Pechar fiestra">
+<!ENTITY identicanotifier.insertURL "Inserir URL">
+<!ENTITY identicanotifier.revertKeyconfig "Reverter">
+<!ENTITY identicanotifier.popupBehavior "Mostrar fiestra">
+<!ENTITY identicanotifier.popupAutoclose "Non pechar a fiestra automaticamente">
+<!ENTITY identicanotifier.balloon "Popup display">
+<!ENTITY identicanotifier.showBalloon "Show balloon popup">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Overwrite browser cookie">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "If check this box, IdentiFox overwrite your browser cookie">
+<!ENTITY identicanotifier.sound "Son de notificación">
+<!ENTITY identicanotifier.soundButton "Examinar...">

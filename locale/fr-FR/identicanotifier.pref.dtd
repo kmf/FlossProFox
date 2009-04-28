@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Préférences de IdentiFox">
+<!ENTITY identicanotifier.accounts "Comptes">
+<!ENTITY identicanotifier.username "Nom d&apos;utilisateur">
+<!ENTITY identicanotifier.password "Mot de passe">
+<!ENTITY identicanotifier.addAccount "Ajouter un compte…">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Supprimer le compte…">
+<!ENTITY identicanotifier.preferences "Préférences">
+<!ENTITY identicanotifier.refreshInterval "Relever les dents">
+<!ENTITY identicanotifier.every3minutes "toutes les 3 minutes">
+<!ENTITY identicanotifier.every5minutes "toutes les 5 minutes">
+<!ENTITY identicanotifier.every10minutes "toutes les 10 minutes">
+<!ENTITY identicanotifier.every15minutes "toutes les 15 minutes">
+<!ENTITY identicanotifier.every30minutes "toutes les 30 minutes">
+<!ENTITY identicanotifier.popupInterval "Intervalle de notification">
+<!ENTITY identicanotifier.popup3sec "3 secondes">
+<!ENTITY identicanotifier.popup5sec "5 secondes">
+<!ENTITY identicanotifier.popup7sec "7 secondes">
+<!ENTITY identicanotifier.popup10sec "10 secondes">
+<!ENTITY identicanotifier.togglePopup "Ouvrir / fermer la fenêtre">
+<!ENTITY identicanotifier.insertURL "Insérer l&apos;URL">
+<!ENTITY identicanotifier.revertKeyconfig "Rétablir">
+<!ENTITY identicanotifier.popupBehavior "Affichage de la fenêtre">
+<!ENTITY identicanotifier.popupAutoclose "Fermer la fenêtre automatiquement">
+<!ENTITY identicanotifier.balloon "Affichage de la popup">
+<!ENTITY identicanotifier.showBalloon "Afficher la popup sous forme de bulle">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Remplacer le cookie du navigateur">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Si vous cochez cette case, Identicafox remplace le cookie de votre navigateur">
+<!ENTITY identicanotifier.sound "Son de notification">
+<!ENTITY identicanotifier.soundButton "Parcourir…">

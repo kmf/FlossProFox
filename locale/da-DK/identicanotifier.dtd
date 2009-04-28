@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Vis popup">
+<!ENTITY identicanotifier.update "Opdater dents nu">
+<!ENTITY identicanotifier.markAllAsRead "Marker alle som læste">
+<!ENTITY identicanotifier.accounts "Skift konto">
+<!ENTITY identicanotifier.preference "Indstillinger...">
+<!ENTITY identicanotifier.logout "Log ud">
+<!ENTITY identicanotifier.linkButton.tooltip "Indsæt nuværende faneblads URL">
+<!ENTITY identicanotifier.recent.tooltip "Vis dine venners tidslinje">
+<!ENTITY identicanotifier.replies.tooltip "Vis svar">
+<!ENTITY identicanotifier.messages.tooltip "Vis direkte beskeder">
+<!ENTITY identicanotifier.enterStatus.tooltip "Tryk enter for at opdatere din status">
+<!ENTITY identicanotifier.replyButton.tooltip "Send svar">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Slå favoritter til/fra">
+<!ENTITY identicanotifier.logo.tooltip "Gå til identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Klik for at skifte konto">
+<!ENTITY identicanotifier.closeButton.tooltip "Luk vindue">
+<!ENTITY identicanotifier.copyDent "Kopier">
+<!ENTITY identicanotifier.redent "Gen-dent">
+<!ENTITY identicanotifier.deleteDent "Slet denne dent">
+<!ENTITY identicanotifier.openDentInTab "Åbn denne dent i et nyt faneblad">
+<!ENTITY identicanotifier.clickToStart "Klik for at starte">

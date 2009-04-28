@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    IdentiFox statusbar interface
+ -->
+
+<?xml-stylesheet href="chrome://identicanotifier/content/identicanotifier.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://identicanotifier/locale/identicanotifier.dtd">
+<overlay id="identicanotifier-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <toolbox id="navigator-toolbox">
+    <tooltip id="identicanotifier-tooltip" orient="vertical">
+      <description id="identicanotifier-status-tooltip" value="IdentiFox"/>
+      <description id="identicanotifier-last-update" value="" style="margin-top: -2px;"/>
+    </tooltip>
+  </toolbox>
+
+  <statusbar id="status-bar">
+    <stringbundleset>
+      <stringbundle id="identicanotifier-strings" src="chrome://identicanotifier/locale/identicanotifier.properties"/> 
+    </stringbundleset>
+
+    <statusbarpanel id="identicanotifier-statusbar-button" 
+		    class="statusbarpanel-menu-iconic"
+		    context="identicanotifier-main-menupopup"
+		    ondblclick="gIdenticaNotifier.openURL('http://floss.pro/')"
+		    onclick="return gIdenticaNotifier.onClickStatusbarIcon(event)"
+		    tooltip="identicanotifier-tooltip">
+
+      <label id="identicanotifier-statusbar-text" style="margin: 1px"/>
+    </statusbarpanel>
+
+    <keyset id="identicanotifier-keyset">
+      <key id="identicanotifier-key-insertURL" oncommand="gIdenticaNotifier.onInsertURL()"/>
+      <key id="identicanotifier-key-togglePopup" oncommand="gIdenticaNotifier.onOpenPopup()"/>
+    </keyset>
+    <popupset id="identicanotifier-popupset">
+      <menupopup id="identicanotifier-main-menupopup">
+	<menuitem id="identicanotifier-menuitem-togglepopup" label="&identicanotifier.showpopup;" oncommand="gIdenticaNotifier.onTogglePopup(event)" type="checkbox" checked="true"/>
+	<menuitem id="identicanotifier-menuitem-update" label="&identicanotifier.update;" oncommand="gIdenticaNotifier.updateStatuses(event)" />
+	<menuitem id="identicanotifier-menuitem-markread" label="&identicanotifier.markAllAsRead;" oncommand="gIdenticaNotifier.markAllRead(event)" />
+	<menuseparator/>
+	<menu id="identicanotifier-menuitem-account" label="&identicanotifier.accounts;">
+	  <menupopup id="identicanotifier-accounts" sortDirection="ascending" onpopupshowing="gIdenticaNotifier.onAccountMenuShowing(this)"/>
+	</menu>
+	<menuseparator/>
+	<menuitem id="identicanotifier-menuitem-preference" label="&identicanotifier.preference;" oncommand="gIdenticaNotifier.onPreference(event)" />
+	<menuitem id="identicanotifier-menuitem-logout" label="&identicanotifier.logout;" oncommand="gIdenticaNotifier.onLogout(this)" />
+      </menupopup>
+    </popupset>
+
+    <panel id="identicanotifier-panel" noautofocus="true" noautohide="true">
+      <vbox id="identicanotifier-popup" class="identicanotifier-popup" style="display:none"/>
+    </panel>
+
+ </statusbar>
+
+  <!-- include javascript -->
+  <script src="utility.js"/>
+  <script src="identicanotifier.js"/>
+
+</overlay>

@@ -1,0 +1,13 @@
+#include "nsISupports.idl"
+#include "mozIStorageConnection.idl"
+
+[scriptable, uuid(7801FBDA-05C0-11DE-BE33-AA2956D89593)]
+
+interface nsIIdentiFoxDatabase : nsISupports 
+{ 
+  void          openDatabase();
+  void          close();
+  void          exec(in AString sql);
+
+  mozIStorageStatement prepare(in AString sql);
+};

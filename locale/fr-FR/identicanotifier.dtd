@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Afficher une fenêtre popup">
+<!ENTITY identicanotifier.update "Mettre à jour les dents">
+<!ENTITY identicanotifier.markAllAsRead "Tout marquer comme lu">
+<!ENTITY identicanotifier.accounts "Changer de compte">
+<!ENTITY identicanotifier.preference "Préférences…">
+<!ENTITY identicanotifier.logout "Déconnexion">
+<!ENTITY identicanotifier.linkButton.tooltip "Insère l&apos;URL de l&apos;onglet courant">
+<!ENTITY identicanotifier.recent.tooltip "Affiche les derniers messages de vos amis">
+<!ENTITY identicanotifier.replies.tooltip "Affiche les réponses">
+<!ENTITY identicanotifier.messages.tooltip "Affiche les messages en direct">
+<!ENTITY identicanotifier.enterStatus.tooltip "Appuyer sur la touche « Entrer » pour mettre à jour votre état">
+<!ENTITY identicanotifier.replyButton.tooltip "Envoie une réponse">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Affiche les favoris">
+<!ENTITY identicanotifier.logo.tooltip "Se rendre sur identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Cliquez pour changer de compte">
+<!ENTITY identicanotifier.closeButton.tooltip "Fermer la fenêtre">
+<!ENTITY identicanotifier.copyDent "Copier">
+<!ENTITY identicanotifier.redent "Redenter">
+<!ENTITY identicanotifier.deleteDent "Supprimer ce dent">
+<!ENTITY identicanotifier.openDentInTab "Ouvrir ce dent dans un nouvel onglet">
+<!ENTITY identicanotifier.clickToStart "Cliquer pour démarrer">

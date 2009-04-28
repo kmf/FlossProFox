@@ -1,0 +1,34 @@
+content	identicanotifier	content/
+overlay	chrome://browser/content/browser.xul	chrome://identicanotifier/content/identicanotifier.xul
+overlay	chrome://emusic/content/startup.xul	chrome://identicanotifier/content/identicanotifier.xul
+locale identicanotifier ar locale/ar/
+locale identicanotifier ar-SA locale/ar-SA/
+locale identicanotifier bn-IN locale/bn-IN/
+locale identicanotifier ca-AD locale/ca-AD/
+locale identicanotifier cs-CZ locale/cs-CZ/
+locale identicanotifier da-DK locale/da-DK/
+locale identicanotifier de-DE locale/de-DE/
+locale identicanotifier el-GR locale/el-GR/
+locale identicanotifier en-US locale/en-US/
+locale identicanotifier es-CL locale/es-CL/
+locale identicanotifier es-ES locale/es-ES/
+locale identicanotifier fa-IR locale/fa-IR/
+locale identicanotifier fi-FI locale/fi-FI/
+locale identicanotifier fr-FR locale/fr-FR/
+locale identicanotifier gl-ES locale/gl-ES/
+locale identicanotifier it-IT locale/it-IT/
+locale identicanotifier ja-JP locale/ja-JP/
+locale identicanotifier kw-GB locale/kw-GB/
+locale identicanotifier nb-NO locale/nb-NO/
+locale identicanotifier nl-NL locale/nl-NL/
+locale identicanotifier pl-PL locale/pl-PL/
+locale identicanotifier pt-BR locale/pt-BR/
+locale identicanotifier ru-RU locale/ru-RU/
+locale identicanotifier sr-RS locale/sr-RS/
+locale identicanotifier sr-YU locale/sr-YU/
+locale identicanotifier th-TH locale/th-TH/
+locale identicanotifier tr-TR locale/tr-TR/
+locale identicanotifier uk-UA locale/uk-UA/
+locale identicanotifier vi-VN locale/vi-VN/
+locale identicanotifier zh-CN locale/zh-CN/
+locale identicanotifier zh-TW locale/zh-TW/

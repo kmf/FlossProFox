@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "تنظیمات تویترفاکس">
+<!ENTITY identicanotifier.accounts "حساب‌ها">
+<!ENTITY identicanotifier.username "نام‌کاربر">
+<!ENTITY identicanotifier.password "رمزعبور">
+<!ENTITY identicanotifier.addAccount "افزودن حساب...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "حذف حساب...">
+<!ENTITY identicanotifier.preferences "تنظیمات">
+<!ENTITY identicanotifier.refreshInterval "نمایش تویت‌ها">
+<!ENTITY identicanotifier.every3minutes "هر ۳ دقیقه">
+<!ENTITY identicanotifier.every5minutes "هر ۵ دقیقه">
+<!ENTITY identicanotifier.every10minutes "هر ۱۰ دقیقه">
+<!ENTITY identicanotifier.every15minutes "هر ۱۵ دقیقه">
+<!ENTITY identicanotifier.every30minutes "هر ۳۰ دقیقه">
+<!ENTITY identicanotifier.popupInterval "فاصله نمایش">
+<!ENTITY identicanotifier.popup3sec "۳ ثانیه">
+<!ENTITY identicanotifier.popup5sec "۵ ثانیه">
+<!ENTITY identicanotifier.popup7sec "۷ ثانیه">
+<!ENTITY identicanotifier.popup10sec "۱۰ ثانیه">
+<!ENTITY identicanotifier.togglePopup "بازکردن/بستن پنجره">
+<!ENTITY identicanotifier.insertURL "افزودن نشانی">
+<!ENTITY identicanotifier.revertKeyconfig "برگشت">
+<!ENTITY identicanotifier.popupBehavior "نمایش در پنجره">
+<!ENTITY identicanotifier.popupAutoclose "پنجره به صورت خودکار بسته نشود">
+<!ENTITY identicanotifier.balloon "نمایش پنجرک">
+<!ENTITY identicanotifier.showBalloon "نمایش پنجرم بالونی">
+<!ENTITY identicanotifier.cookie "کوکی">
+<!ENTITY identicanotifier.overwriteCookie "کوکی مرورگر جای‌نوشته شود">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "اگر شما این گزینه را انتخاب کنید، تویترفاکس از کوکی خود به‌جای کوکی کاربری استفاده می‌کند">
+<!ENTITY identicanotifier.sound "هشدار صوتی">
+<!ENTITY identicanotifier.soundButton "مرور...">

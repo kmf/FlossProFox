@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Show popup">
+<!ENTITY identicanotifier.update "Update dents now">
+<!ENTITY identicanotifier.markAllAsRead "Mark all as read">
+<!ENTITY identicanotifier.accounts "Change account">
+<!ENTITY identicanotifier.preference "Вподобання...">
+<!ENTITY identicanotifier.logout "Logout">
+<!ENTITY identicanotifier.linkButton.tooltip "Insert current tab&apos;s URL">
+<!ENTITY identicanotifier.recent.tooltip "Show your friends timeline">
+<!ENTITY identicanotifier.replies.tooltip "Show replies">
+<!ENTITY identicanotifier.messages.tooltip "Show direct messages">
+<!ENTITY identicanotifier.enterStatus.tooltip "Enter to update your status">
+<!ENTITY identicanotifier.replyButton.tooltip "Send Reply">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Toggle favorite">
+<!ENTITY identicanotifier.logo.tooltip "Go to identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Click to change account">
+<!ENTITY identicanotifier.closeButton.tooltip "Закрити вікно">
+<!ENTITY identicanotifier.copyDent "Copy">
+<!ENTITY identicanotifier.redent "Redent">
+<!ENTITY identicanotifier.deleteDent "Delete this dent">
+<!ENTITY identicanotifier.openDentInTab "Open this dent in new tab">
+<!ENTITY identicanotifier.clickToStart "Click to Start">

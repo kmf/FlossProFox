@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<bindings id="autocompleteBindings"
+          xmlns="http://www.mozilla.org/xbl"
+          xmlns:html="http://www.w3.org/1999/xhtml"
+          xmlns:xul="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+          xmlns:xbl="http://www.mozilla.org/xbl">
+
+  <binding id="identica-autocomplete"
+           extends="chrome://global/content/bindings/autocomplete.xml#autocomplete">
+    <resources>
+      <stylesheet src="chrome://global/skin/autocomplete.css"/>
+    </resources>
+
+    <content sizetopopup="pref">
+      <xul:hbox class="autocomplete-textbox-container" flex="1">
+        <children includes="image|deck">
+          <xul:image class="autocomplete-icon" allowevents="true"/>
+        </children>
+
+        <xul:hbox anonid="textbox-input-box" class="textbox-input-box" flex="1" xbl:inherits="tooltiptext=inputtooltiptext">
+          <children/>
+          <html:textarea id="identicanotifier-autocomplete-textarea" anonid="input" class="autocomplete-textbox textbox-input identica-autocomplete-textarea"
+                      flex="1" allowevents="true" spellcheck="true"
+                      xbl:inherits="tooltiptext=inputtooltiptext,onfocus,onblur,disabled,readonly,userAction,rows,cols,wrap,xbl:text=value"/>
+        </xul:hbox>
+        <children includes="hbox"/>
+      </xul:hbox>
+      
+      <xul:dropmarker anonid="historydropmarker" class="autocomplete-history-dropmarker"
+                      allowevents="true"
+                      xbl:inherits="open,enablehistory"/>
+
+      <xul:popupset anonid="popupset" class="autocomplete-result-popupset"/>
+    </content>
+
+    <!-- Disable key navigation when autocomplete popup is closed -->
+    <handlers>
+      <handler event="keypress" phase="capturing">
+	this.disableKeyNavigation = this.popupOpen ? false : true;
+      </handler>
+
+      <handler event="keydown" keycode="9"><![CDATA[
+	var text = event.originalTarget;
+        var i = text.popup.selectedIndex + 1;
+        if (i == text.popup.view.rowCount) {
+          text.value = text.pValue;
+        }
+      ]]></handler>
+
+    </handlers>
+
+  </binding>
+</bindings>
+

@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "กำหนดรายละเอียด IdentiFox">
+<!ENTITY identicanotifier.accounts "บัญชีผู้ใช้">
+<!ENTITY identicanotifier.username "ชื่อผู้ใช้">
+<!ENTITY identicanotifier.password "รหัสผ่าน">
+<!ENTITY identicanotifier.addAccount "เพิ่มบัญชีผู้ใช้...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "ลบบัญชีผู้ใช้...">
+<!ENTITY identicanotifier.preferences "กำหนดรายละเอียด">
+<!ENTITY identicanotifier.refreshInterval "ปรับปรุงทวิต">
+<!ENTITY identicanotifier.every3minutes "ทุก 3 นาที">
+<!ENTITY identicanotifier.every5minutes "ทุก 5 นาที">
+<!ENTITY identicanotifier.every10minutes "ทุก 10 นาที">
+<!ENTITY identicanotifier.every15minutes "ทุก 15 นาที">
+<!ENTITY identicanotifier.every30minutes "ทุก 30 นาที">
+<!ENTITY identicanotifier.popupInterval "ระยะเวลาการเตือน">
+<!ENTITY identicanotifier.popup3sec "3 วินาที">
+<!ENTITY identicanotifier.popup5sec "5 วินาที">
+<!ENTITY identicanotifier.popup7sec "7 วินาที">
+<!ENTITY identicanotifier.popup10sec "10 วินาที">
+<!ENTITY identicanotifier.togglePopup "เปิด/ปิดหน้าต่าง">
+<!ENTITY identicanotifier.insertURL "แทรก URL">
+<!ENTITY identicanotifier.revertKeyconfig "คืนกลับ">
+<!ENTITY identicanotifier.popupBehavior "แสดงหน้าต่าง">
+<!ENTITY identicanotifier.popupAutoclose "ปิดหน้าต่างโดยอัตโนมัติ">
+<!ENTITY identicanotifier.balloon "หน้าต่างเตือน">
+<!ENTITY identicanotifier.showBalloon "แสดงหน้าต่างเตือนข้อความ">
+<!ENTITY identicanotifier.cookie "คุกกี้">
+<!ENTITY identicanotifier.overwriteCookie "แทนเบราว์เซอร์คุกกี้">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "ถ้าทำเครื่องหมายในกล่องนี้ จะใช้ IdentiFox แทนเบราว์เซอร์คุกกี้">
+<!ENTITY identicanotifier.sound "เสียงการแจ้งเตือน">
+<!ENTITY identicanotifier.soundButton "เลือก...">

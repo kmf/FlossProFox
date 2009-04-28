@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Приказуј обавештења">
+<!ENTITY identicanotifier.update "Освежи твитове">
+<!ENTITY identicanotifier.markAllAsRead "Означи све прочитаним">
+<!ENTITY identicanotifier.accounts "Избор налога">
+<!ENTITY identicanotifier.preference "Поставке...">
+<!ENTITY identicanotifier.logout "Одјава">
+<!ENTITY identicanotifier.linkButton.tooltip "Уметни адресу активног језичка">
+<!ENTITY identicanotifier.recent.tooltip "Прикажи временску траку пријатеља">
+<!ENTITY identicanotifier.replies.tooltip "Прикажи одговоре">
+<!ENTITY identicanotifier.messages.tooltip "Прикажи директне поруке">
+<!ENTITY identicanotifier.enterStatus.tooltip "Притисните Ентер за ажурирање стања">
+<!ENTITY identicanotifier.replyButton.tooltip "Пошаљи одговор">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Постави омиљено">
+<!ENTITY identicanotifier.logo.tooltip "Иди на твитер">
+<!ENTITY identicanotifier.changeAccount.tooltip "Кликните за промену налога">
+<!ENTITY identicanotifier.closeButton.tooltip "Затвори прозор">
+<!ENTITY identicanotifier.copyDent "Умножи">
+<!ENTITY identicanotifier.redent "Ретвит">
+<!ENTITY identicanotifier.deleteDent "Уклони овај твит">
+<!ENTITY identicanotifier.openDentInTab "Отвори овај твит у новом језичку">
+<!ENTITY identicanotifier.clickToStart "Кликните за почетак">

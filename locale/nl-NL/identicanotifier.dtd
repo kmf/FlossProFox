@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Pop-up weergeven">
+<!ENTITY identicanotifier.update "Dents nu bijwerken">
+<!ENTITY identicanotifier.markAllAsRead "Alles als gelezen markeren">
+<!ENTITY identicanotifier.accounts "Account wijzigen">
+<!ENTITY identicanotifier.preference "Voorkeuren...">
+<!ENTITY identicanotifier.logout "Uitloggen">
+<!ENTITY identicanotifier.linkButton.tooltip "URL van huidige tabblad invoegen">
+<!ENTITY identicanotifier.recent.tooltip "Tijdlijn van uw vriend weergeven">
+<!ENTITY identicanotifier.replies.tooltip "Antwoorden weergeven">
+<!ENTITY identicanotifier.messages.tooltip "Rechtstreekse berichten weergeven">
+<!ENTITY identicanotifier.enterStatus.tooltip "Druk Enter om uw status bij te werken">
+<!ENTITY identicanotifier.replyButton.tooltip "Antwoord versturen">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Favoriet wisselen">
+<!ENTITY identicanotifier.logo.tooltip "Naar identica gaan">
+<!ENTITY identicanotifier.changeAccount.tooltip "Klik om account te wijzigen">
+<!ENTITY identicanotifier.closeButton.tooltip "Venster sluiten">
+<!ENTITY identicanotifier.copyDent "Kopiëren">
+<!ENTITY identicanotifier.redent "Opnieuw denten">
+<!ENTITY identicanotifier.deleteDent "Deze dent verwijderen">
+<!ENTITY identicanotifier.openDentInTab "Deze dent in een nieuw tabblad openen">
+<!ENTITY identicanotifier.clickToStart "Klik om te starten">

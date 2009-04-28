@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Εμφάνιση αναδυόμενου μηνύματος">
+<!ENTITY identicanotifier.update "Ανανέωση dents">
+<!ENTITY identicanotifier.markAllAsRead "Mark all as read">
+<!ENTITY identicanotifier.accounts "Αλλαγή λογαριασμού">
+<!ENTITY identicanotifier.preference "Προτιμήσεις...">
+<!ENTITY identicanotifier.logout "Αποσύνδεση">
+<!ENTITY identicanotifier.linkButton.tooltip "Εισαγωγή URL τρέχουσας καρτέλας">
+<!ENTITY identicanotifier.recent.tooltip "Εμφάνιση ιστορικού φίλων">
+<!ENTITY identicanotifier.replies.tooltip "Εμφάνιση απαντήσεων">
+<!ENTITY identicanotifier.messages.tooltip "Εμφάνιση άμεσων μηνυμάτων">
+<!ENTITY identicanotifier.enterStatus.tooltip "Εισάγετε για να ενημερώσετε την κατάστασή σας">
+<!ENTITY identicanotifier.replyButton.tooltip "Αποστολή Απάντησης">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Αλλαγή κατάστασης αγαπημένου">
+<!ENTITY identicanotifier.logo.tooltip "Μετάβαση στο identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Πατήστε εδώ για να αλλάξετε λογαριασμό">
+<!ENTITY identicanotifier.closeButton.tooltip "Κλείσιμο παραθύρου">
+<!ENTITY identicanotifier.copyDent "Copy">
+<!ENTITY identicanotifier.redent "Redent">
+<!ENTITY identicanotifier.deleteDent "Delete this dent">
+<!ENTITY identicanotifier.openDentInTab "Open this dent in new tab">
+<!ENTITY identicanotifier.clickToStart "Click to Start">

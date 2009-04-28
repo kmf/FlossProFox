@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox - preferencje">
+<!ENTITY identicanotifier.accounts "Konta">
+<!ENTITY identicanotifier.username "Nazwa użytkownika">
+<!ENTITY identicanotifier.password "Hasło">
+<!ENTITY identicanotifier.addAccount "Dodaj konto">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Usuń konto">
+<!ENTITY identicanotifier.preferences "Preferencje">
+<!ENTITY identicanotifier.refreshInterval "Pobieraj denty">
+<!ENTITY identicanotifier.every3minutes "co 3 minuty">
+<!ENTITY identicanotifier.every5minutes "co 5 minut">
+<!ENTITY identicanotifier.every10minutes "co 10 minut">
+<!ENTITY identicanotifier.every15minutes "co 15 minut">
+<!ENTITY identicanotifier.every30minutes "co 30 minut">
+<!ENTITY identicanotifier.popupInterval "Wyświetlaj wyskakujące okno">
+<!ENTITY identicanotifier.popup3sec "przez 3 sekundy">
+<!ENTITY identicanotifier.popup5sec "przez 5 sekund">
+<!ENTITY identicanotifier.popup7sec "przez 7 sekund">
+<!ENTITY identicanotifier.popup10sec "przez 10 sekund">
+<!ENTITY identicanotifier.togglePopup "Otwórz/Zamknij okno">
+<!ENTITY identicanotifier.insertURL "Wstaw adres aktywnej karty">
+<!ENTITY identicanotifier.revertKeyconfig "Przywróć">
+<!ENTITY identicanotifier.popupBehavior "Zamykanie okna">
+<!ENTITY identicanotifier.popupAutoclose "Zamykaj okno automatycznie">
+<!ENTITY identicanotifier.balloon "Wyświetlanie wyskakującego okna">
+<!ENTITY identicanotifier.showBalloon "Wyświetlaj wyskakujący dymek powiadamiania">
+<!ENTITY identicanotifier.cookie "Ciasteczko">
+<!ENTITY identicanotifier.overwriteCookie "Nadpisuj ciasteczko przeglądarki">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Jeżeli zaznaczysz to pole, IdentiFox będzie nadpisywał ciasteczko przeglądarki">
+<!ENTITY identicanotifier.sound "Dźwięk powiadomienia">
+<!ENTITY identicanotifier.soundButton "Przeglądaj...">

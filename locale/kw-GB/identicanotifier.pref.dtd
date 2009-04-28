@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Dewisyansow IdentiFox">
+<!ENTITY identicanotifier.accounts "Akontow">
+<!ENTITY identicanotifier.username "Hanow Usyer">
+<!ENTITY identicanotifier.password "Ger-Tremena">
+<!ENTITY identicanotifier.addAccount "Keworra akont...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Dilea akont...">
+<!ENTITY identicanotifier.preferences "Dewisyansow">
+<!ENTITY identicanotifier.refreshInterval "Kavos twitys">
+<!ENTITY identicanotifier.every3minutes "pub 3 mynysen">
+<!ENTITY identicanotifier.every5minutes "pub 5 mynysen">
+<!ENTITY identicanotifier.every10minutes "pub 10 mynysen">
+<!ENTITY identicanotifier.every15minutes "pub 15 mynysen">
+<!ENTITY identicanotifier.every30minutes "pub 30 mynysen">
+<!ENTITY identicanotifier.popupInterval "Ynterval yntra dew dardhans">
+<!ENTITY identicanotifier.popup3sec "3 eylen">
+<!ENTITY identicanotifier.popup5sec "5 eylen">
+<!ENTITY identicanotifier.popup7sec "7 eylen">
+<!ENTITY identicanotifier.popup10sec "10 eylen">
+<!ENTITY identicanotifier.togglePopup "Ygeri/Degea fenester">
+<!ENTITY identicanotifier.insertURL "Ynworra URL">
+<!ENTITY identicanotifier.revertKeyconfig "Dehweles">
+<!ENTITY identicanotifier.popupBehavior "Diskwedhyans fenestrow">
+<!ENTITY identicanotifier.popupAutoclose "Degea fenester yn awtomatek">
+<!ENTITY identicanotifier.balloon "Diskwedhyans tardhansow">
+<!ENTITY identicanotifier.showBalloon "Diskwedhes tardhans pel ayr">
+<!ENTITY identicanotifier.cookie "Pasti">
+<!ENTITY identicanotifier.overwriteCookie "Overwrite browser cookie">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "If check this box, IdentiFox overwrite your browser cookie">
+<!ENTITY identicanotifier.sound "Son gwarnyans">
+<!ENTITY identicanotifier.soundButton "Peuri...">

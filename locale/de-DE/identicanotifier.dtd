@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Popup zeigen">
+<!ENTITY identicanotifier.update "Dents aktualisieren">
+<!ENTITY identicanotifier.markAllAsRead "Alle als gelesen markieren">
+<!ENTITY identicanotifier.accounts "Konto wechseln">
+<!ENTITY identicanotifier.preference "Einstellungen...">
+<!ENTITY identicanotifier.logout "Abmelden">
+<!ENTITY identicanotifier.linkButton.tooltip "Aktuelle Tab-URL einfügen">
+<!ENTITY identicanotifier.recent.tooltip "Zeige die Zeitleiste deines Freundes">
+<!ENTITY identicanotifier.replies.tooltip "Antworten anzeigen">
+<!ENTITY identicanotifier.messages.tooltip "Direktnachrichten anzeigen">
+<!ENTITY identicanotifier.enterStatus.tooltip "Text eingeben um Status zu aktualisieren">
+<!ENTITY identicanotifier.replyButton.tooltip "Antwort senden">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Favoriten ändern">
+<!ENTITY identicanotifier.logo.tooltip "Gehe zu Identica">
+<!ENTITY identicanotifier.changeAccount.tooltip "Klicken um Konto zu wechseln">
+<!ENTITY identicanotifier.closeButton.tooltip "Fenster schließen">
+<!ENTITY identicanotifier.copyDent "Kopieren">
+<!ENTITY identicanotifier.redent "Erneut identican">
+<!ENTITY identicanotifier.deleteDent "Diesen Twet löschen">
+<!ENTITY identicanotifier.openDentInTab "Diesen Dent in neuem Tab öffnen">
+<!ENTITY identicanotifier.clickToStart "Zum Starten klicken">

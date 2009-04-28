@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Zobrazit oznámení">
+<!ENTITY identicanotifier.update "Aktualizovat denty nyní">
+<!ENTITY identicanotifier.markAllAsRead "Označit vše za přečtené">
+<!ENTITY identicanotifier.accounts "Změnit účet">
+<!ENTITY identicanotifier.preference "Předvolby...">
+<!ENTITY identicanotifier.logout "Odhlásit se">
+<!ENTITY identicanotifier.linkButton.tooltip "Vložit adresu URL aktuálního panelu">
+<!ENTITY identicanotifier.recent.tooltip "Zobrazí časovou osu vašich přátel">
+<!ENTITY identicanotifier.replies.tooltip "Zobrazí odpovědi">
+<!ENTITY identicanotifier.messages.tooltip "Zobrazí přímé zprávy">
+<!ENTITY identicanotifier.enterStatus.tooltip "Pište a aktualizujte tak svůj stav">
+<!ENTITY identicanotifier.replyButton.tooltip "Odpovědět">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Oblíbená položka">
+<!ENTITY identicanotifier.logo.tooltip "Přejít na Identica.com">
+<!ENTITY identicanotifier.changeAccount.tooltip "Klepnutím změníte účet">
+<!ENTITY identicanotifier.closeButton.tooltip "Zavřít okno">
+<!ENTITY identicanotifier.copyDent "Kopírovat">
+<!ENTITY identicanotifier.redent "Znovu odeslat">
+<!ENTITY identicanotifier.deleteDent "Odstranit tento dent">
+<!ENTITY identicanotifier.openDentInTab "Otevřít tento dent v novém panelu">
+<!ENTITY identicanotifier.clickToStart "Klepněte pro spuštění">

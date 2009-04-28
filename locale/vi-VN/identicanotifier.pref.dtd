@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Tùy Chọn IdentiFox">
+<!ENTITY identicanotifier.accounts "Tài khoản">
+<!ENTITY identicanotifier.username "Tên người dùng">
+<!ENTITY identicanotifier.password "Mật khẩu">
+<!ENTITY identicanotifier.addAccount "Thêm tài khoản...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Xóa tài khoản...">
+<!ENTITY identicanotifier.preferences "Tùy chỉnh">
+<!ENTITY identicanotifier.refreshInterval "Lấy dents">
+<!ENTITY identicanotifier.every3minutes "mỗi 3 phút">
+<!ENTITY identicanotifier.every5minutes "mỗi 5 phút">
+<!ENTITY identicanotifier.every10minutes "mỗi 10 phút">
+<!ENTITY identicanotifier.every15minutes "mỗi 15 phút">
+<!ENTITY identicanotifier.every30minutes "mỗi 30 phút">
+<!ENTITY identicanotifier.popupInterval "Khoảng thời gian popup">
+<!ENTITY identicanotifier.popup3sec "3 giây">
+<!ENTITY identicanotifier.popup5sec "5 giây">
+<!ENTITY identicanotifier.popup7sec "7 giây">
+<!ENTITY identicanotifier.popup10sec "10 giây">
+<!ENTITY identicanotifier.togglePopup "Mở/Đóng cửa sổ">
+<!ENTITY identicanotifier.insertURL "Nhập URL">
+<!ENTITY identicanotifier.revertKeyconfig "Hoàn tác">
+<!ENTITY identicanotifier.popupBehavior "Hiển thị cửa sổ">
+<!ENTITY identicanotifier.popupAutoclose "Tự động đóng cửa sổ">
+<!ENTITY identicanotifier.balloon "Hiển thị popup">
+<!ENTITY identicanotifier.showBalloon "Hiện popup bong bóng">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Ghi đè cookie trình duyệt">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Nếu bạn chọn hộp này, IdentiFox sẽ ghi đè cookie trình duyệt">
+<!ENTITY identicanotifier.sound "Âm thanh thông báo">
+<!ENTITY identicanotifier.soundButton "Duyệt...">

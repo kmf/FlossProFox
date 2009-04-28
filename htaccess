@@ -1,0 +1,2 @@
+Redirect 301 /identica/IdenticaNotifier.xpi http://www.copiesofcopies.org/identica/IdentiFox-$VERSION$.xpi
+Redirect 301 /identica/IdentiFox.xpi      http://www.copiesofcopies.org/identica/IdentiFox-$VERSION$.xpi

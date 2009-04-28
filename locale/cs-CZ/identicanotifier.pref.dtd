@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox - Předvolby">
+<!ENTITY identicanotifier.accounts "Účty">
+<!ENTITY identicanotifier.username "Uživatelské jméno">
+<!ENTITY identicanotifier.password "Heslo">
+<!ENTITY identicanotifier.addAccount "Přidat účet...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Odstranit účet...">
+<!ENTITY identicanotifier.preferences "Předvolby">
+<!ENTITY identicanotifier.refreshInterval "Získávat denty">
+<!ENTITY identicanotifier.every3minutes "každé 3 minuty">
+<!ENTITY identicanotifier.every5minutes "každých 5 minut">
+<!ENTITY identicanotifier.every10minutes "každých 10 minut">
+<!ENTITY identicanotifier.every15minutes "každých 15 minut">
+<!ENTITY identicanotifier.every30minutes "každých 30 minut">
+<!ENTITY identicanotifier.popupInterval "Doba zobrazení upozornění">
+<!ENTITY identicanotifier.popup3sec "3 sekundy">
+<!ENTITY identicanotifier.popup5sec "5 sekund">
+<!ENTITY identicanotifier.popup7sec "7 sekund">
+<!ENTITY identicanotifier.popup10sec "10 sekund">
+<!ENTITY identicanotifier.togglePopup "Otevřít/zavřít okno">
+<!ENTITY identicanotifier.insertURL "Vložit adresu URL">
+<!ENTITY identicanotifier.revertKeyconfig "Původní">
+<!ENTITY identicanotifier.popupBehavior "Zobrazení okna">
+<!ENTITY identicanotifier.popupAutoclose "Zavřít okno automaticky">
+<!ENTITY identicanotifier.balloon "Zobrazení upozornění">
+<!ENTITY identicanotifier.showBalloon "Zobrazit bublinové upozornění">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Přepsat cookie prohlížeče">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Pokud je zaškrtnuto, IdentiFox přepíše cookie ve vašem prohlížeči">
+<!ENTITY identicanotifier.sound "Zvukové oznámení">
+<!ENTITY identicanotifier.soundButton "Procházet...">

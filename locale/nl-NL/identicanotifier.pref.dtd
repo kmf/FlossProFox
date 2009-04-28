@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox voorkeuren">
+<!ENTITY identicanotifier.accounts "Accounts">
+<!ENTITY identicanotifier.username "Gebruikersnaam">
+<!ENTITY identicanotifier.password "Wachtwoord">
+<!ENTITY identicanotifier.addAccount "Account toevoegen...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Account verwijderen">
+<!ENTITY identicanotifier.preferences "Voorkeuren">
+<!ENTITY identicanotifier.refreshInterval "Dents ophalen:">
+<!ENTITY identicanotifier.every3minutes "elke 3 minuten">
+<!ENTITY identicanotifier.every5minutes "elke 5 minuten">
+<!ENTITY identicanotifier.every10minutes "elke 10 minuten">
+<!ENTITY identicanotifier.every15minutes "elk kwartier">
+<!ENTITY identicanotifier.every30minutes "elk half uur">
+<!ENTITY identicanotifier.popupInterval "Pop-upinterval">
+<!ENTITY identicanotifier.popup3sec "3 seconden">
+<!ENTITY identicanotifier.popup5sec "5 seconden">
+<!ENTITY identicanotifier.popup7sec "7 seconden">
+<!ENTITY identicanotifier.popup10sec "10 seconden">
+<!ENTITY identicanotifier.togglePopup "Venster openen/sluiten">
+<!ENTITY identicanotifier.insertURL "URL invoegen">
+<!ENTITY identicanotifier.revertKeyconfig "Terugdraaien">
+<!ENTITY identicanotifier.popupBehavior "Vensterweergave">
+<!ENTITY identicanotifier.popupAutoclose "Venster automatisch sluiten">
+<!ENTITY identicanotifier.balloon "Pop-upweergave">
+<!ENTITY identicanotifier.showBalloon "Ballonpop-up weergeven">
+<!ENTITY identicanotifier.cookie "Cookie">
+<!ENTITY identicanotifier.overwriteCookie "Browsercookie overschrijven">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Indien dit veld is aangevinkt overschrijft IdentiFox uw browsercookie">
+<!ENTITY identicanotifier.sound "Notificatiegeluid">
+<!ENTITY identicanotifier.soundButton "Bladeren...">

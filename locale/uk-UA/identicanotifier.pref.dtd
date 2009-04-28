@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "Вподобання IdentiFox">
+<!ENTITY identicanotifier.accounts "Облікові записи">
+<!ENTITY identicanotifier.username "Ім&apos;я користувача">
+<!ENTITY identicanotifier.password "Пароль">
+<!ENTITY identicanotifier.addAccount "Додати обліковий запис...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Вилучити обліковий запис...">
+<!ENTITY identicanotifier.preferences "Вподобання">
+<!ENTITY identicanotifier.refreshInterval "Отримати твіти">
+<!ENTITY identicanotifier.every3minutes "кожні 3 хвилини">
+<!ENTITY identicanotifier.every5minutes "кожні 5 хвилин">
+<!ENTITY identicanotifier.every10minutes "кожні 10 хвилин">
+<!ENTITY identicanotifier.every15minutes "кожні 15 хвилин">
+<!ENTITY identicanotifier.every30minutes "кожні 30 хвилин">
+<!ENTITY identicanotifier.popupInterval "Popup interval">
+<!ENTITY identicanotifier.popup3sec "3 секунди">
+<!ENTITY identicanotifier.popup5sec "5 секунд">
+<!ENTITY identicanotifier.popup7sec "7 секунд">
+<!ENTITY identicanotifier.popup10sec "10 секунд">
+<!ENTITY identicanotifier.togglePopup "Відкрити/Закрити вікно">
+<!ENTITY identicanotifier.insertURL "Ввести URL">
+<!ENTITY identicanotifier.revertKeyconfig "Інвертувати">
+<!ENTITY identicanotifier.popupBehavior "Window display">
+<!ENTITY identicanotifier.popupAutoclose "Закрити">
+<!ENTITY identicanotifier.balloon "Popup display">
+<!ENTITY identicanotifier.showBalloon "Показувати виринаюче повідомлення">
+<!ENTITY identicanotifier.cookie "Кукі">
+<!ENTITY identicanotifier.overwriteCookie "Перезаписати кукі переглядача">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "If check this box, IdentiFox overwrite your browser cookie">
+<!ENTITY identicanotifier.sound "Звук нагадування">
+<!ENTITY identicanotifier.soundButton "Перегляд...">

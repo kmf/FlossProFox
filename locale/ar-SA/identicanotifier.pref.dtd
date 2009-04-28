@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "خصائص IdentiFox">
+<!ENTITY identicanotifier.accounts "الحسابات">
+<!ENTITY identicanotifier.username "اسم المستخدم">
+<!ENTITY identicanotifier.password "كلمة المرور">
+<!ENTITY identicanotifier.addAccount "إضافة حساب ...">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "حذف الحساب ...">
+<!ENTITY identicanotifier.preferences "خصائص">
+<!ENTITY identicanotifier.refreshInterval "جلب المدخلات">
+<!ENTITY identicanotifier.every3minutes "كل 3 دقائق">
+<!ENTITY identicanotifier.every5minutes "كل 5 دقائق">
+<!ENTITY identicanotifier.every10minutes "كل 10 دقائق">
+<!ENTITY identicanotifier.every15minutes "كل 15 دقيقة">
+<!ENTITY identicanotifier.every30minutes "كل 30 دقيقة">
+<!ENTITY identicanotifier.popupInterval "مدة النافذة المنبثقة">
+<!ENTITY identicanotifier.popup3sec "3 ثواني">
+<!ENTITY identicanotifier.popup5sec "5 ثواني">
+<!ENTITY identicanotifier.popup7sec "7 ثواني">
+<!ENTITY identicanotifier.popup10sec "10 ثواني">
+<!ENTITY identicanotifier.togglePopup "فتح/إغلاق النافذة">
+<!ENTITY identicanotifier.insertURL "إضافة رابط">
+<!ENTITY identicanotifier.revertKeyconfig "استعادة">
+<!ENTITY identicanotifier.popupBehavior "عرض النافذة">
+<!ENTITY identicanotifier.popupAutoclose "إغلاق النافذة تلقائياً">
+<!ENTITY identicanotifier.balloon "عرض النافذة المنبثقة">
+<!ENTITY identicanotifier.showBalloon "عرض البالون المنبثق">
+<!ENTITY identicanotifier.cookie "الكوكيز">
+<!ENTITY identicanotifier.overwriteCookie "الكتابة على كوكيز المتصفح">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "إذا حددت هذا الخيار فإن IdentiFox سيقوم بالكتابة على كوكيز المتصفح">
+<!ENTITY identicanotifier.sound "صوت تنبيهي">
+<!ENTITY identicanotifier.soundButton "استعراض ...">

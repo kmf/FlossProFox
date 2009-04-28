@@ -1,0 +1,21 @@
+<!ENTITY identicanotifier.showpopup "Mostra popup">
+<!ENTITY identicanotifier.update "Aggiorna dent">
+<!ENTITY identicanotifier.markAllAsRead "Segna tutti come già letti">
+<!ENTITY identicanotifier.accounts "Cambia profilo">
+<!ENTITY identicanotifier.preference "Preferenze...">
+<!ENTITY identicanotifier.logout "Disconnetti">
+<!ENTITY identicanotifier.linkButton.tooltip "Inserisci URL corrente del browser">
+<!ENTITY identicanotifier.recent.tooltip "Visualizza messaggi recenti dei tuoi amici">
+<!ENTITY identicanotifier.replies.tooltip "Visualizza risposte ai tuoi messaggi">
+<!ENTITY identicanotifier.messages.tooltip "Visualizza messaggi diretti">
+<!ENTITY identicanotifier.enterStatus.tooltip "Scrivi qui ed aggiorna il tuo stato">
+<!ENTITY identicanotifier.replyButton.tooltip "Invia risposta">
+<!ENTITY identicanotifier.favoriteButton.tooltip "Aggiungi/Elimina preferito">
+<!ENTITY identicanotifier.logo.tooltip "Visita identi.ca">
+<!ENTITY identicanotifier.changeAccount.tooltip "Clicca per cambiare profilo">
+<!ENTITY identicanotifier.closeButton.tooltip "Chiudi finestra">
+<!ENTITY identicanotifier.copyDent "Copia messaggio">
+<!ENTITY identicanotifier.redent "Inoltra messaggio">
+<!ENTITY identicanotifier.deleteDent "Elimina messaggio">
+<!ENTITY identicanotifier.openDentInTab "Visualizza messaggio in una nuova scheda">
+<!ENTITY identicanotifier.clickToStart "Clicca per iniziare">

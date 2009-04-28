@@ -1,0 +1,31 @@
+<!ENTITY identicanotifier.title "IdentiFox-asetukset">
+<!ENTITY identicanotifier.accounts "Tunnukset">
+<!ENTITY identicanotifier.username "Käyttäjätunnus">
+<!ENTITY identicanotifier.password "Salasana">
+<!ENTITY identicanotifier.addAccount "Lisää tunnus">
+<!ENTITY identicanotifier.editAccount "Edit account...">
+<!ENTITY identicanotifier.removeAccount "Poista tunnus">
+<!ENTITY identicanotifier.preferences "Asetukset">
+<!ENTITY identicanotifier.refreshInterval "Hae päivityksiä">
+<!ENTITY identicanotifier.every3minutes "3 minuutin välein">
+<!ENTITY identicanotifier.every5minutes "5 minuutin välein">
+<!ENTITY identicanotifier.every10minutes "10 minuutin välein">
+<!ENTITY identicanotifier.every15minutes "15 minuutin välein">
+<!ENTITY identicanotifier.every30minutes "30 minuutin välein">
+<!ENTITY identicanotifier.popupInterval "Ponnahdusikkunan aikaväli">
+<!ENTITY identicanotifier.popup3sec "3 sekuntia">
+<!ENTITY identicanotifier.popup5sec "5 sekuntia">
+<!ENTITY identicanotifier.popup7sec "7 sekuntia">
+<!ENTITY identicanotifier.popup10sec "10 sekuntia">
+<!ENTITY identicanotifier.togglePopup "Avaa/sulje ikkuna">
+<!ENTITY identicanotifier.insertURL "Liitä URL">
+<!ENTITY identicanotifier.revertKeyconfig "Palauta">
+<!ENTITY identicanotifier.popupBehavior "Ikkunan esittäminen">
+<!ENTITY identicanotifier.popupAutoclose "Älä sulje ikkunaa automaattisesti">
+<!ENTITY identicanotifier.balloon "Ponnahdusikkunan esittäminen">
+<!ENTITY identicanotifier.showBalloon "Näytä ponnahdusikkuna">
+<!ENTITY identicanotifier.cookie "Eväste">
+<!ENTITY identicanotifier.overwriteCookie "Ylikirjoita selaimen eväste">
+<!ENTITY identicanotifier.overwriteCookie.tooltip "Jos merkkaat tämän laatikon, IdentiFox ylikirjoittaa selaimesi evästeen">
+<!ENTITY identicanotifier.sound "Ilmoitusääni">
+<!ENTITY identicanotifier.soundButton "Selaa...">
