@@ -39,11 +39,11 @@
 
 .identicanotifier-status[unread="true"]
 { 
-  background: #f0f2f5;
+  background: #ffc955;
 }
 
 .identicanotifier-status:hover { 
-  background: #cee1e9;
+  background: #ffc955;
 }
 
 .identicanotifier-status[attr="replies"] { 
@@ -240,7 +240,7 @@
 }
 
 .identicanotifier-scroll-thumb:active { 
-  background: #abc5d0;
+  background: #ffc955;
 }
 
 .identicanotifier-toolbar { 
@@ -313,7 +313,7 @@
   padding: 4px;
   margin: 0px;
   text-align: center;
-  color: #4aa;
+  color: #ff7400;
   background: #f0f2f5;
   border-top: 1px solid #ffc14f;
   border-right: 1px solid #ffc14f;
